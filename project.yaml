@@ -6,25 +6,39 @@ expectations:
 actions:
 
   generate_study_population_2019:
-    run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2019-01-01"
+    run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2019-01-01" --output-format=csv.gz
     outputs:
       highly_sensitive:
-        cohort: output/input_2019-01-01.csv
+        cohort: output/input_2019-01-01.csv.gz
 
   generate_study_population_2020:
-      run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2020-01-01"
-      outputs:
-        highly_sensitive:
-          cohort: output/input_2020-01-01.csv
+    run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2020-01-01" --output-format=csv.gz
+    outputs:
+      highly_sensitive:
+        cohort: output/input_2020-01-01.csv.gz
 
   generate_study_population_2021:
-      run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2021-01-01"
-      outputs:
-        highly_sensitive:
-          cohort: output/input_2021-01-01.csv
+    run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2021-01-01" --output-format=csv.gz
+    outputs:
+      highly_sensitive:
+        cohort: output/input_2021-01-01.csv.gz
 
   generate_study_population_2022:
-      run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2022-01-01"
-      outputs:
-        highly_sensitive:
-          cohort: output/input_2022-01-01.csv
+    run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2022-01-01" --output-format=csv.gz
+    outputs:
+      highly_sensitive:
+        cohort: output/input_2022-01-01.csv.gz
+
+  run_counts:
+    run: python:latest python analysis/counts.py
+    needs: [generate_study_population_2019, generate_study_population_2020, generate_study_population_2021, generate_study_population_2022]
+    outputs:
+      moderately_sensitive:
+        counts_2019:
+          output/counts_2019.csv
+        counts_2020:
+          output/counts_2020.csv
+        counts_2021:
+          output/counts_2021.csv
+        counts_2022:
+          output/counts_2022.csv
