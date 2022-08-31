@@ -5,8 +5,26 @@ expectations:
 
 actions:
 
-  generate_study_population:
-    run: cohortextractor:latest generate_cohort --study-definition study_definition
+  generate_study_population_2019:
+    run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2019-01-01"
     outputs:
       highly_sensitive:
-        cohort: output/input.csv
+        cohort: output/input_2019-01-01.csv
+
+  generate_study_population_2020:
+      run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2020-01-01"
+      outputs:
+        highly_sensitive:
+          cohort: output/input_2020-01-01.csv
+
+  generate_study_population_2021:
+      run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2021-01-01"
+      outputs:
+        highly_sensitive:
+          cohort: output/input_2021-01-01.csv
+
+  generate_study_population_2022:
+      run: cohortextractor:latest generate_cohort --study-definition study_definition --index-date-range "2022-01-01"
+      outputs:
+        highly_sensitive:
+          cohort: output/input_2022-01-01.csv
