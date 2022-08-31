@@ -7,7 +7,7 @@ med_vars = {
         between=["index_date", "index_date + 1 year"],
         returning="number_of_matches_in_period",
     )
-    for k, v in dict_codelists
+    for k, v in dict_codelists.items()
 }
 
 study = StudyDefinition(
@@ -15,9 +15,9 @@ study = StudyDefinition(
         "date": {"earliest": "1900-01-01", "latest": "today"},
         "rate": "uniform",
         "incidence": 0.5,
+        "int": {"distribution": "normal", "mean": 2, "stddev": 1},
     },
-    population=patients.registered_with_one_practice_between(
-        "2019-02-01", "2020-02-01"
-    ),
+    index_date="2019-01-01",
+    population=patients.all(),
     **med_vars
 )
