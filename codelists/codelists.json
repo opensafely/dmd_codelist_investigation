@@ -1,3 +1,592 @@
 {
-  "files": {}
+  "files": {
+    "opensafely-ace-inhibitor-medications.csv": {
+      "id": "opensafely/ace-inhibitor-medications/2020-05-19",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/ace-inhibitor-medications/2020-05-19/",
+      "downloaded_at": "2022-08-31 17:06:59.250309Z",
+      "sha": "e0c30e30450b35339e9007a0fa6b3899b1a8719b"
+    },
+    "opensafely-adrenaline-pens.csv": {
+      "id": "opensafely/adrenaline-pens/1964af81",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/adrenaline-pens/1964af81/",
+      "downloaded_at": "2022-08-31 17:06:59.537352Z",
+      "sha": "3f430b2ce844cc061364ffc29c2058cb83189b68"
+    },
+    "opensafely-alfentanil-subcutaneous-dmd.csv": {
+      "id": "opensafely/alfentanil-subcutaneous-dmd/7ddc0911",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/alfentanil-subcutaneous-dmd/7ddc0911/",
+      "downloaded_at": "2022-08-31 17:06:59.835420Z",
+      "sha": "311efcc939681c50502730c120231da5a4666091"
+    },
+    "opensafely-alpha-adrenoceptor-blocking-drugs.csv": {
+      "id": "opensafely/alpha-adrenoceptor-blocking-drugs/2020-05-19",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/alpha-adrenoceptor-blocking-drugs/2020-05-19/",
+      "downloaded_at": "2022-08-31 17:07:00.113968Z",
+      "sha": "27e7bbbc2afe4e1d82f1b2ce6789d500e1ab6d1d"
+    },
+    "opensafely-angiotensin-ii-receptor-blockers-arbs.csv": {
+      "id": "opensafely/angiotensin-ii-receptor-blockers-arbs/2020-05-19",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/angiotensin-ii-receptor-blockers-arbs/2020-05-19/",
+      "downloaded_at": "2022-08-31 17:07:00.415591Z",
+      "sha": "9c24ba7e76e1e176100b35e6a544e668b891ea24"
+    },
+    "opensafely-antidiabetic-drugs.csv": {
+      "id": "opensafely/antidiabetic-drugs/2020-07-16",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/antidiabetic-drugs/2020-07-16/",
+      "downloaded_at": "2022-08-31 17:07:00.727780Z",
+      "sha": "f0b93b0054d673e8dcfbeba8fea0cd54239f0725"
+    },
+    "opensafely-antihistamines-oral.csv": {
+      "id": "opensafely/antihistamines-oral/2020-10-22",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/antihistamines-oral/2020-10-22/",
+      "downloaded_at": "2022-08-31 17:07:01.044963Z",
+      "sha": "892b502470b7a36b6b10cdae4e5be05c1badfc6d"
+    },
+    "opensafely-antiplatelets.csv": {
+      "id": "opensafely/antiplatelets/15eb3bfc",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/antiplatelets/15eb3bfc/",
+      "downloaded_at": "2022-08-31 17:07:01.397074Z",
+      "sha": "711bf39052daafd23e0b89eb0a0c345d5c08c78e"
+    },
+    "opensafely-aspirin.csv": {
+      "id": "opensafely/aspirin/2020-07-01",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/aspirin/2020-07-01/",
+      "downloaded_at": "2022-08-31 17:07:01.702491Z",
+      "sha": "72a82a16aa14ad42d60544febcfe6556eb25db2a"
+    },
+    "opensafely-asthma-inhaler-salbutamol-medication.csv": {
+      "id": "opensafely/asthma-inhaler-salbutamol-medication/2020-04-15",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/asthma-inhaler-salbutamol-medication/2020-04-15/",
+      "downloaded_at": "2022-08-31 17:07:02.017481Z",
+      "sha": "d886f3ce53492ec456e0a304ee865d66e73715d6"
+    },
+    "opensafely-asthma-inhaler-steroid-medication.csv": {
+      "id": "opensafely/asthma-inhaler-steroid-medication/2020-04-15",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/asthma-inhaler-steroid-medication/2020-04-15/",
+      "downloaded_at": "2022-08-31 17:07:02.305428Z",
+      "sha": "d184aff205a5017c9e656d2be7484e3aaadc9cda"
+    },
+    "opensafely-asthma-oral-prednisolone-medication.csv": {
+      "id": "opensafely/asthma-oral-prednisolone-medication/2020-04-27",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/asthma-oral-prednisolone-medication/2020-04-27/",
+      "downloaded_at": "2022-08-31 17:07:02.582858Z",
+      "sha": "e47cc254975c23f7507cf04bb655454f8b5ece18"
+    },
+    "opensafely-asthma-related-drug-treatment-codes.csv": {
+      "id": "opensafely/asthma-related-drug-treatment-codes/2c3f11a5",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/asthma-related-drug-treatment-codes/2c3f11a5/",
+      "downloaded_at": "2022-08-31 17:07:02.877006Z",
+      "sha": "7afa53b81d907bae23cb8d3d2cc950bfe625c373"
+    },
+    "opensafely-azathioprine-dmd.csv": {
+      "id": "opensafely/azathioprine-dmd/78f0ddfe",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/azathioprine-dmd/78f0ddfe/",
+      "downloaded_at": "2022-08-31 17:07:03.163316Z",
+      "sha": "f6fa74e1b390e9c0735d523e68873146c19e7f39"
+    },
+    "opensafely-azithromycin-medication.csv": {
+      "id": "opensafely/azithromycin-medication/2020-07-06",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/azithromycin-medication/2020-07-06/",
+      "downloaded_at": "2022-08-31 17:07:03.429249Z",
+      "sha": "8513be43dc492ac88d426e71eca63a603dd302f1"
+    },
+    "opensafely-beta-blocker-medications.csv": {
+      "id": "opensafely/beta-blocker-medications/2020-05-19",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/beta-blocker-medications/2020-05-19/",
+      "downloaded_at": "2022-08-31 17:07:03.725169Z",
+      "sha": "18bae37eb2937ce683e73c1d4a42f08164a6e657"
+    },
+    "opensafely-cox-2-specific-nsaids.csv": {
+      "id": "opensafely/cox-2-specific-nsaids/2020-06-15",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/cox-2-specific-nsaids/2020-06-15/",
+      "downloaded_at": "2022-08-31 17:07:04.034343Z",
+      "sha": "a5a2cf7f7f5be04e1e7009245e017612b109f713"
+    },
+    "opensafely-calcium-channel-blockers.csv": {
+      "id": "opensafely/calcium-channel-blockers/2020-05-19",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/calcium-channel-blockers/2020-05-19/",
+      "downloaded_at": "2022-08-31 17:07:04.310337Z",
+      "sha": "4eb3cb738e98de10fe64a469e506df55748001f1"
+    },
+    "opensafely-chloroquine.csv": {
+      "id": "opensafely/chloroquine/2020-07-06",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/chloroquine/2020-07-06/",
+      "downloaded_at": "2022-08-31 17:07:04.630792Z",
+      "sha": "d159740abed0b61cdf5a457a7c2177c1cbda5e1b"
+    },
+    "opensafely-ciclosporin-oral.csv": {
+      "id": "opensafely/ciclosporin-oral/4eea3776",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/ciclosporin-oral/4eea3776/",
+      "downloaded_at": "2022-08-31 17:07:04.914288Z",
+      "sha": "e5c310a46991fd4aae1ac7b4a2272d87c4f68439"
+    },
+    "opensafely-ciclosporin-oral-dmd.csv": {
+      "id": "opensafely/ciclosporin-oral-dmd/4c961cc9",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/ciclosporin-oral-dmd/4c961cc9/",
+      "downloaded_at": "2022-08-31 17:07:05.194898Z",
+      "sha": "e5c310a46991fd4aae1ac7b4a2272d87c4f68439"
+    },
+    "opensafely-combination-blood-pressure-medication.csv": {
+      "id": "opensafely/combination-blood-pressure-medication/2020-05-19",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/combination-blood-pressure-medication/2020-05-19/",
+      "downloaded_at": "2022-08-31 17:07:05.504326Z",
+      "sha": "ea49cdbd39576094064068a0381cb07eee380bdc"
+    },
+    "opensafely-dmards.csv": {
+      "id": "opensafely/dmards/2020-06-23",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/dmards/2020-06-23/",
+      "downloaded_at": "2022-08-31 17:07:05.810174Z",
+      "sha": "06aae624d5a02a69c9e9e518a6d64e0a8e74e66e"
+    },
+    "opensafely-dabigatran-dmd.csv": {
+      "id": "opensafely/dabigatran-dmd/6c39d1bf",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/dabigatran-dmd/6c39d1bf/",
+      "downloaded_at": "2022-08-31 17:07:06.084429Z",
+      "sha": "c34b29f6eaf33f45914d978b6f1819fb61a660c2"
+    },
+    "opensafely-diamorphine-subcutaneous.csv": {
+      "id": "opensafely/diamorphine-subcutaneous/1438bc51",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/diamorphine-subcutaneous/1438bc51/",
+      "downloaded_at": "2022-08-31 17:07:06.352437Z",
+      "sha": "2c71c7591acab0b88096cbdea40c6582b56f728a"
+    },
+    "opensafely-direct-acting-oral-anticoagulants-doac.csv": {
+      "id": "opensafely/direct-acting-oral-anticoagulants-doac/2020-10-05",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/direct-acting-oral-anticoagulants-doac/2020-10-05/",
+      "downloaded_at": "2022-08-31 17:07:06.655798Z",
+      "sha": "50f69d9c0bcb0e58aadb76fb4749d33f74f66253"
+    },
+    "opensafely-edoxaban-dmd.csv": {
+      "id": "opensafely/edoxaban-dmd/054944f5",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/edoxaban-dmd/054944f5/",
+      "downloaded_at": "2022-08-31 17:07:06.962688Z",
+      "sha": "39f475f58c63ba6c3d470cda6e098bda09495295"
+    },
+    "opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv": {
+      "id": "opensafely/first-generation-antipsychotics-excluding-long-acting-depots-dmd/1e9b227c",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/first-generation-antipsychotics-excluding-long-acting-depots-dmd/1e9b227c/",
+      "downloaded_at": "2022-08-31 17:07:07.264364Z",
+      "sha": "05377dd984eee854029417020513c043c4f25876"
+    },
+    "opensafely-glycopyrronium-subcutaneous-formulations.csv": {
+      "id": "opensafely/glycopyrronium-subcutaneous-formulations/0c207c6f",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/glycopyrronium-subcutaneous-formulations/0c207c6f/",
+      "downloaded_at": "2022-08-31 17:07:07.587084Z",
+      "sha": "db876cbecff085f6754847a33fc43152d41c4061"
+    },
+    "opensafely-haloperidol-subcutaneous-dmd.csv": {
+      "id": "opensafely/haloperidol-subcutaneous-dmd/78768925",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/haloperidol-subcutaneous-dmd/78768925/",
+      "downloaded_at": "2022-08-31 17:07:07.894447Z",
+      "sha": "276c0ca435d4dc7053de87ab9cec7abcf8e929f3"
+    },
+    "opensafely-high-dose-ics-inhalers.csv": {
+      "id": "opensafely/high-dose-ics-inhalers/2020-05-05",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/high-dose-ics-inhalers/2020-05-05/",
+      "downloaded_at": "2022-08-31 17:07:08.193600Z",
+      "sha": "b55f90cacc0bf8725ff4d68e0dfef13900baa5e1"
+    },
+    "opensafely-high-dose-long-acting-opioids-openprescribing-dmd.csv": {
+      "id": "opensafely/high-dose-long-acting-opioids-openprescribing-dmd/52f27403",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/high-dose-long-acting-opioids-openprescribing-dmd/52f27403/",
+      "downloaded_at": "2022-08-31 17:07:08.472854Z",
+      "sha": "998d956447c4aa67f9b3b8f21a757b4bfbe6d9c1"
+    },
+    "opensafely-high-dose-multiple-ingredient-ics-inhalers.csv": {
+      "id": "opensafely/high-dose-multiple-ingredient-ics-inhalers/2020-05-13",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/high-dose-multiple-ingredient-ics-inhalers/2020-05-13/",
+      "downloaded_at": "2022-08-31 17:07:08.757351Z",
+      "sha": "00e18771a2520f253d83c47bf2a7639bbb0c15c5"
+    },
+    "opensafely-high-dose-single-ingredient-ics-inhalers.csv": {
+      "id": "opensafely/high-dose-single-ingredient-ics-inhalers/2020-05-13",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/high-dose-single-ingredient-ics-inhalers/2020-05-13/",
+      "downloaded_at": "2022-08-31 17:07:09.163766Z",
+      "sha": "a135952da0806da901428b5788e15547daee511b"
+    },
+    "opensafely-hydroxychloroquine.csv": {
+      "id": "opensafely/hydroxychloroquine/2020-06-15",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/hydroxychloroquine/2020-06-15/",
+      "downloaded_at": "2022-08-31 17:07:09.434122Z",
+      "sha": "b9787f3b2851a0c2d4b03fbe3eec921ff9098802"
+    },
+    "opensafely-hyoscine-butylbromide-subcutaneous-formulations.csv": {
+      "id": "opensafely/hyoscine-butylbromide-subcutaneous-formulations/252fefa4",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/hyoscine-butylbromide-subcutaneous-formulations/252fefa4/",
+      "downloaded_at": "2022-08-31 17:07:09.682634Z",
+      "sha": "1af04b7a57f675e2196bd9c0ec41b1dff2abb29c"
+    },
+    "opensafely-hyoscine-hydrobromide-subcutaneous.csv": {
+      "id": "opensafely/hyoscine-hydrobromide-subcutaneous/6219d5e6",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/hyoscine-hydrobromide-subcutaneous/6219d5e6/",
+      "downloaded_at": "2022-08-31 17:07:09.978318Z",
+      "sha": "008496630738ffb23b40079ef7bb97f8d5887c12"
+    },
+    "opensafely-ibuprofen-oral.csv": {
+      "id": "opensafely/ibuprofen-oral/2020-07-01",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/ibuprofen-oral/2020-07-01/",
+      "downloaded_at": "2022-08-31 17:07:10.264644Z",
+      "sha": "bede87de1a7b6d8ff2a8374b147203cf58c35b98"
+    },
+    "opensafely-indometacin.csv": {
+      "id": "opensafely/indometacin/2020-06-16",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/indometacin/2020-06-16/",
+      "downloaded_at": "2022-08-31 17:07:10.558787Z",
+      "sha": "39f8dd4223e193cad535c61521fe1999dd64bcfb"
+    },
+    "opensafely-influenza-vaccination.csv": {
+      "id": "opensafely/influenza-vaccination/2020-05-12",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/influenza-vaccination/2020-05-12/",
+      "downloaded_at": "2022-08-31 17:07:10.897641Z",
+      "sha": "aa7cf32d4c16deb5a14fb3d68f0a2babfe431caf"
+    },
+    "opensafely-insulin-medication.csv": {
+      "id": "opensafely/insulin-medication/2020-04-26",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/insulin-medication/2020-04-26/",
+      "downloaded_at": "2022-08-31 17:07:11.235269Z",
+      "sha": "9d4c57c0b8738962da04b32ab43b7659cd64d774"
+    },
+    "opensafely-laba-ics-combination-inhaler.csv": {
+      "id": "opensafely/laba-ics-combination-inhaler/2020-05-04",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/laba-ics-combination-inhaler/2020-05-04/",
+      "downloaded_at": "2022-08-31 17:07:11.521791Z",
+      "sha": "73cab6e4fda7a74be82d573cf9c282734c304db2"
+    },
+    "opensafely-laba-lama-ics-combination-inhaler.csv": {
+      "id": "opensafely/laba-lama-ics-combination-inhaler/2020-05-05",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/laba-lama-ics-combination-inhaler/2020-05-05/",
+      "downloaded_at": "2022-08-31 17:07:11.815351Z",
+      "sha": "06bacb78c491aa4d48bd403ed7c6d2455f54793c"
+    },
+    "opensafely-laba-lama-combination-inhaler.csv": {
+      "id": "opensafely/laba-lama-combination-inhaler/2020-05-05",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/laba-lama-combination-inhaler/2020-05-05/",
+      "downloaded_at": "2022-08-31 17:07:12.103627Z",
+      "sha": "b7059a43872f9a0a7289d01cd89e6850fd09a5a9"
+    },
+    "opensafely-leflunomide-dmd.csv": {
+      "id": "opensafely/leflunomide-dmd/1765d120",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/leflunomide-dmd/1765d120/",
+      "downloaded_at": "2022-08-31 17:07:12.407822Z",
+      "sha": "0d88edfe37ebb951a6ccc6199ef360c91b188c11"
+    },
+    "opensafely-leukotriene-receptor-antagonist-medication.csv": {
+      "id": "opensafely/leukotriene-receptor-antagonist-medication/2020-05-05",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/leukotriene-receptor-antagonist-medication/2020-05-05/",
+      "downloaded_at": "2022-08-31 17:07:12.708129Z",
+      "sha": "8dfe3298b7faffc0a0cdd06363d5f4f842a6b08a"
+    },
+    "opensafely-levomepromazine-subcutaneous.csv": {
+      "id": "opensafely/levomepromazine-subcutaneous/40f222cf",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/levomepromazine-subcutaneous/40f222cf/",
+      "downloaded_at": "2022-08-31 17:07:12.998796Z",
+      "sha": "4af7357f39bc26d4c10c921399a0859ea1cbec59"
+    },
+    "opensafely-levothyroxine.csv": {
+      "id": "opensafely/levothyroxine/33c99f4d",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/levothyroxine/33c99f4d/",
+      "downloaded_at": "2022-08-31 17:07:13.324142Z",
+      "sha": "38b1c4f4f4981d2ac19aaa21de6b0c8e2de86a54"
+    },
+    "opensafely-lithium-oral-dmd.csv": {
+      "id": "opensafely/lithium-oral-dmd/3771945c",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/lithium-oral-dmd/3771945c/",
+      "downloaded_at": "2022-08-31 17:07:13.612547Z",
+      "sha": "e59ead6442499c3eb675a90d9e826b3a6afe11b1"
+    },
+    "opensafely-lithium-carbonate-dmd.csv": {
+      "id": "opensafely/lithium-carbonate-dmd/1e622127",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/lithium-carbonate-dmd/1e622127/",
+      "downloaded_at": "2022-08-31 17:07:13.877866Z",
+      "sha": "3108750f2055575eb7b641649f64204c283801b3"
+    },
+    "opensafely-lithium-citrate-dmd.csv": {
+      "id": "opensafely/lithium-citrate-dmd/0552adf2",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/lithium-citrate-dmd/0552adf2/",
+      "downloaded_at": "2022-08-31 17:07:14.158807Z",
+      "sha": "2c32df1256357dcc62533cb9c07a7c8be6a4dabc"
+    },
+    "opensafely-long-acting-injectable-and-depot-antipsychotics-dmd.csv": {
+      "id": "opensafely/long-acting-injectable-and-depot-antipsychotics-dmd/536cc8dc",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/long-acting-injectable-and-depot-antipsychotics-dmd/536cc8dc/",
+      "downloaded_at": "2022-08-31 17:07:14.413469Z",
+      "sha": "c26f7b48ce7ff115f492cc3fe8c123f9cc82e191"
+    },
+    "opensafely-low-and-medium-dose-ics-inhalers.csv": {
+      "id": "opensafely/low-and-medium-dose-ics-inhalers/2020-05-05",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/low-and-medium-dose-ics-inhalers/2020-05-05/",
+      "downloaded_at": "2022-08-31 17:07:14.741040Z",
+      "sha": "3a3d77ec774a8556ac4e64d54e2218b02e4c5a53"
+    },
+    "opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv": {
+      "id": "opensafely/low-and-medium-dose-multiple-ingredient-ics-inhalers/2020-05-13",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/low-and-medium-dose-multiple-ingredient-ics-inhalers/2020-05-13/",
+      "downloaded_at": "2022-08-31 17:07:15.024024Z",
+      "sha": "ba2bba251bd4dc6edfe02fcc4b0fa54933f9e428"
+    },
+    "opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv": {
+      "id": "opensafely/low-and-medium-dose-single-ingredient-ics-inhalers/2020-05-13",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/low-and-medium-dose-single-ingredient-ics-inhalers/2020-05-13/",
+      "downloaded_at": "2022-08-31 17:07:15.292873Z",
+      "sha": "054dd411f42a1c4731e2867ec343fa19271e41da"
+    },
+    "opensafely-low-molecular-weight-heparins-dmd.csv": {
+      "id": "opensafely/low-molecular-weight-heparins-dmd/480a2266",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/low-molecular-weight-heparins-dmd/480a2266/",
+      "downloaded_at": "2022-08-31 17:07:15.571675Z",
+      "sha": "de0a10673bb65158a38823dc112238b8fadd7fba"
+    },
+    "opensafely-mercaptopurine-dmd.csv": {
+      "id": "opensafely/mercaptopurine-dmd/6546eab5",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/mercaptopurine-dmd/6546eab5/",
+      "downloaded_at": "2022-08-31 17:07:15.886519Z",
+      "sha": "079b5e58286038aeab19569ee041b7d2bcafe78d"
+    },
+    "opensafely-methotrexate-oral.csv": {
+      "id": "opensafely/methotrexate-oral/041a8320",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/methotrexate-oral/041a8320/",
+      "downloaded_at": "2022-08-31 17:07:16.151573Z",
+      "sha": "68754de9916bb08a1ea9d6d84c899dda5ee64ad7"
+    },
+    "opensafely-methotrexate-injectable.csv": {
+      "id": "opensafely/methotrexate-injectable/3328044b",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/methotrexate-injectable/3328044b/",
+      "downloaded_at": "2022-08-31 17:07:16.415168Z",
+      "sha": "b3346c5e6169072eb26bb62094ee883dcd8325d4"
+    },
+    "opensafely-midazolam-end-of-life.csv": {
+      "id": "opensafely/midazolam-end-of-life/4c1b3c89",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/midazolam-end-of-life/4c1b3c89/",
+      "downloaded_at": "2022-08-31 17:07:16.689260Z",
+      "sha": "6478270c4b76768366bcf585622905154fb32d91"
+    },
+    "opensafely-morphine-subcutaneous-dmd.csv": {
+      "id": "opensafely/morphine-subcutaneous-dmd/1185fc5b",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/morphine-subcutaneous-dmd/1185fc5b/",
+      "downloaded_at": "2022-08-31 17:07:16.983142Z",
+      "sha": "1f6b6ca26867189b219a7a8f6a20cf83d1a77f04"
+    },
+    "opensafely-mycophenolate.csv": {
+      "id": "opensafely/mycophenolate/30754455",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/mycophenolate/30754455/",
+      "downloaded_at": "2022-08-31 17:07:17.240688Z",
+      "sha": "1d86687fd7f4dc21351f2e8af88035460a1b1a06"
+    },
+    "opensafely-nsaids-oral.csv": {
+      "id": "opensafely/nsaids-oral/2020-06-09",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/nsaids-oral/2020-06-09/",
+      "downloaded_at": "2022-08-31 17:07:18.244183Z",
+      "sha": "e33fa37c8037bf34f92a5ed4afc79cc7dfd334d5"
+    },
+    "opensafely-naproxen-high-dose.csv": {
+      "id": "opensafely/naproxen-high-dose/2020-06-10",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/naproxen-high-dose/2020-06-10/",
+      "downloaded_at": "2022-08-31 17:07:18.580827Z",
+      "sha": "46b5b53fee88180c49792faa1d0b8d4a7be36a0e"
+    },
+    "opensafely-naproxen-low-dose.csv": {
+      "id": "opensafely/naproxen-low-dose/2020-06-10",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/naproxen-low-dose/2020-06-10/",
+      "downloaded_at": "2022-08-31 17:07:18.856192Z",
+      "sha": "b67e192554727bff958047c6a9881d9f746ba30b"
+    },
+    "opensafely-naproxen-other-doses.csv": {
+      "id": "opensafely/naproxen-other-doses/2020-06-10",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/naproxen-other-doses/2020-06-10/",
+      "downloaded_at": "2022-08-31 17:07:19.119009Z",
+      "sha": "71ad302fd4456470064c0bbb21348e69ba764cd1"
+    },
+    "opensafely-nebulised-asthma-and-copd-medications.csv": {
+      "id": "opensafely/nebulised-asthma-and-copd-medications/2020-05-05",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/nebulised-asthma-and-copd-medications/2020-05-05/",
+      "downloaded_at": "2022-08-31 17:07:19.431995Z",
+      "sha": "5ea8c8be7c7c6cc196eafd00ed091efdbe5b051f"
+    },
+    "opensafely-newer-aminosalicylates-for-ibd-dmd.csv": {
+      "id": "opensafely/newer-aminosalicylates-for-ibd-dmd/4c377780",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/newer-aminosalicylates-for-ibd-dmd/4c377780/",
+      "downloaded_at": "2022-08-31 17:07:19.711379Z",
+      "sha": "fd7024a1bf58a5970b46f7a31894d0ddcb813b29"
+    },
+    "opensafely-non-high-dose-long-acting-opioids-openprescribing-dmd.csv": {
+      "id": "opensafely/non-high-dose-long-acting-opioids-openprescribing-dmd/39e300ce",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/non-high-dose-long-acting-opioids-openprescribing-dmd/39e300ce/",
+      "downloaded_at": "2022-08-31 17:07:20.011836Z",
+      "sha": "3ea446349db9e9fff80f89e9646f8f935bc5cc6d"
+    },
+    "opensafely-oestrogen-and-oestrogen-like-drugs.csv": {
+      "id": "opensafely/oestrogen-and-oestrogen-like-drugs/2efaaf31",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/oestrogen-and-oestrogen-like-drugs/2efaaf31/",
+      "downloaded_at": "2022-08-31 17:07:20.297305Z",
+      "sha": "ab8006392b4b1265818ae6879d88a70209e747cc"
+    },
+    "opensafely-trimethoprim-and-nitrofurantoin.csv": {
+      "id": "opensafely/trimethoprim-and-nitrofurantoin/5857f3ef",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/trimethoprim-and-nitrofurantoin/5857f3ef/",
+      "downloaded_at": "2022-08-31 17:07:20.607103Z",
+      "sha": "49328c249b4dcf601c4ebf7546961f9a42c63a45"
+    },
+    "opensafely-trimethoprim.csv": {
+      "id": "opensafely/trimethoprim/3f4880ba",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/trimethoprim/3f4880ba/",
+      "downloaded_at": "2022-08-31 17:07:20.862223Z",
+      "sha": "c70107122feb988c5e8050e97f41000233238bac"
+    },
+    "opensafely-antibacterials.csv": {
+      "id": "opensafely/antibacterials/26390d85",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/antibacterials/26390d85/",
+      "downloaded_at": "2022-08-31 17:07:21.220460Z",
+      "sha": "38c5ffea91faf14fcebce4d200485100534a4b7c"
+    },
+    "opensafely-co-amoxiclav-cephalosporins-and-quinolones.csv": {
+      "id": "opensafely/co-amoxiclav-cephalosporins-and-quinolones/0d299a50",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/co-amoxiclav-cephalosporins-and-quinolones/0d299a50/",
+      "downloaded_at": "2022-08-31 17:07:21.543360Z",
+      "sha": "b1118448ed57fb5b2598e642b2235537dd420f1e"
+    },
+    "opensafely-opioid-containing-medicines-buccal-nasal-and-oromucosal-excluding-drugs-for-substance-misuse-dmd.csv": {
+      "id": "opensafely/opioid-containing-medicines-buccal-nasal-and-oromucosal-excluding-drugs-for-substance-misuse-dmd/20d38d99",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/opioid-containing-medicines-buccal-nasal-and-oromucosal-excluding-drugs-for-substance-misuse-dmd/20d38d99/",
+      "downloaded_at": "2022-08-31 17:07:21.870520Z",
+      "sha": "f02ec6bcfc5dcc0e4e5041d54c15d3cd744b04f1"
+    },
+    "opensafely-opioid-containing-medicines-inhalation-excluding-drugs-for-substance-misuse-dmd.csv": {
+      "id": "opensafely/opioid-containing-medicines-inhalation-excluding-drugs-for-substance-misuse-dmd/07c41a64",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/opioid-containing-medicines-inhalation-excluding-drugs-for-substance-misuse-dmd/07c41a64/",
+      "downloaded_at": "2022-08-31 17:07:22.148007Z",
+      "sha": "cf87bbb51fe5f4f32bb26627e835869c26bff738"
+    },
+    "opensafely-opioid-containing-medicines-oral-excluding-drugs-for-substance-misuse-dmd.csv": {
+      "id": "opensafely/opioid-containing-medicines-oral-excluding-drugs-for-substance-misuse-dmd/6eb4a72e",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/opioid-containing-medicines-oral-excluding-drugs-for-substance-misuse-dmd/6eb4a72e/",
+      "downloaded_at": "2022-08-31 17:07:22.471885Z",
+      "sha": "a41e62e765935b71021cc065f2b805d1db5bdca5"
+    },
+    "opensafely-opioid-containing-medicines-parenteral-excluding-drugs-for-substance-misuse-dmd.csv": {
+      "id": "opensafely/opioid-containing-medicines-parenteral-excluding-drugs-for-substance-misuse-dmd/55a533f9",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/opioid-containing-medicines-parenteral-excluding-drugs-for-substance-misuse-dmd/55a533f9/",
+      "downloaded_at": "2022-08-31 17:07:22.817619Z",
+      "sha": "044adae7ce3f0ec4d8e504d3091d858053ec3ec7"
+    },
+    "opensafely-opioid-containing-medicines-rectal-excluding-drugs-for-substance-misuse-dmd.csv": {
+      "id": "opensafely/opioid-containing-medicines-rectal-excluding-drugs-for-substance-misuse-dmd/3c95c0c4",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/opioid-containing-medicines-rectal-excluding-drugs-for-substance-misuse-dmd/3c95c0c4/",
+      "downloaded_at": "2022-08-31 17:07:23.102136Z",
+      "sha": "7bd5331516dd6c0e371d262dd479a3918719a5ae"
+    },
+    "opensafely-opioid-containing-medicines-transdermal-excluding-drugs-for-substance-misuse-dmd.csv": {
+      "id": "opensafely/opioid-containing-medicines-transdermal-excluding-drugs-for-substance-misuse-dmd/23864d8f",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/opioid-containing-medicines-transdermal-excluding-drugs-for-substance-misuse-dmd/23864d8f/",
+      "downloaded_at": "2022-08-31 17:07:23.483308Z",
+      "sha": "3fc91ee3233d04fc7cb15266195dfa62415b696b"
+    },
+    "opensafely-oxycodone-subcutaneous-dmd.csv": {
+      "id": "opensafely/oxycodone-subcutaneous-dmd/2a956f90",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/oxycodone-subcutaneous-dmd/2a956f90/",
+      "downloaded_at": "2022-08-31 17:07:23.751514Z",
+      "sha": "b93cc2784a514fa4bb01092d1feb2e7e8a526ef6"
+    },
+    "opensafely-penicillamine-dmd.csv": {
+      "id": "opensafely/penicillamine-dmd/7e565dea",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/penicillamine-dmd/7e565dea/",
+      "downloaded_at": "2022-08-31 17:07:24.035018Z",
+      "sha": "93620e8afea3c59e74730d4d576368c278401043"
+    },
+    "opensafely-pneumococcal-vaccination.csv": {
+      "id": "opensafely/pneumococcal-vaccination/2020-05-11",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/pneumococcal-vaccination/2020-05-11/",
+      "downloaded_at": "2022-08-31 17:07:24.365344Z",
+      "sha": "94b1915a5b5898e945b109019a2d71545313162e"
+    },
+    "opensafely-prochlorperazine-dmd.csv": {
+      "id": "opensafely/prochlorperazine-dmd/058baf47",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/prochlorperazine-dmd/058baf47/",
+      "downloaded_at": "2022-08-31 17:07:24.682477Z",
+      "sha": "f2823afd905cf7070e5f6a69fad42f617ed444b3"
+    },
+    "opensafely-proton-pump-inhibitors-ppi-oral.csv": {
+      "id": "opensafely/proton-pump-inhibitors-ppi-oral/2020-04-20",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/proton-pump-inhibitors-ppi-oral/2020-04-20/",
+      "downloaded_at": "2022-08-31 17:07:25.039715Z",
+      "sha": "4f324dd28aaa5a92a838fd44ea31ad03ab59ccc0"
+    },
+    "opensafely-rivaroxaban-dmd.csv": {
+      "id": "opensafely/rivaroxaban-dmd/1e58b82a",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/rivaroxaban-dmd/1e58b82a/",
+      "downloaded_at": "2022-08-31 17:07:25.289827Z",
+      "sha": "6f75ccff5dfe08869c97650aa54d269b6f81aaad"
+    },
+    "opensafely-saba-inhaler-medications.csv": {
+      "id": "opensafely/saba-inhaler-medications/2020-05-06",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/saba-inhaler-medications/2020-05-06/",
+      "downloaded_at": "2022-08-31 17:07:25.573341Z",
+      "sha": "b871037e8a0bb9297a10d6a5b3b4121370a17cc9"
+    },
+    "opensafely-sama-medication.csv": {
+      "id": "opensafely/sama-medication/2020-05-11",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/sama-medication/2020-05-11/",
+      "downloaded_at": "2022-08-31 17:07:25.856674Z",
+      "sha": "09df7cb28ec0e197ae0be42e1f8b72a01767bc72"
+    },
+    "opensafely-second-generation-antipsychotics-excluding-long-acting-injections.csv": {
+      "id": "opensafely/second-generation-antipsychotics-excluding-long-acting-injections/6c7c3c11",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/second-generation-antipsychotics-excluding-long-acting-injections/6c7c3c11/",
+      "downloaded_at": "2022-08-31 17:07:26.163770Z",
+      "sha": "2330a3239958a1e120352e26fa7126e71d5dfdba"
+    },
+    "opensafely-selective-serotonin-reuptake-inhibitors-dmd.csv": {
+      "id": "opensafely/selective-serotonin-reuptake-inhibitors-dmd/6a572e55",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/selective-serotonin-reuptake-inhibitors-dmd/6a572e55/",
+      "downloaded_at": "2022-08-31 17:07:26.494390Z",
+      "sha": "85e3b0949455aa282fd26b09d523905127160789"
+    },
+    "opensafely-single-ingredient-ics.csv": {
+      "id": "opensafely/single-ingredient-ics/2020-05-13",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/single-ingredient-ics/2020-05-13/",
+      "downloaded_at": "2022-08-31 17:07:26.808108Z",
+      "sha": "b779c20a241631125be08220b410dd0c34bfeda0"
+    },
+    "opensafely-single-ingredient-laba-inhalers.csv": {
+      "id": "opensafely/single-ingredient-laba-inhalers/2020-05-06",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/single-ingredient-laba-inhalers/2020-05-06/",
+      "downloaded_at": "2022-08-31 17:07:27.135539Z",
+      "sha": "9d413c2601448fc01927af903be2d9fcf4fc47a9"
+    },
+    "opensafely-single-ingredient-lama-inhalers.csv": {
+      "id": "opensafely/single-ingredient-lama-inhalers/2020-05-06",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/single-ingredient-lama-inhalers/2020-05-06/",
+      "downloaded_at": "2022-08-31 17:07:27.767506Z",
+      "sha": "83165fcdaf9512dc20cb69a879dd485b6b4b7e27"
+    },
+    "opensafely-spironolactone.csv": {
+      "id": "opensafely/spironolactone/2020-05-19",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/spironolactone/2020-05-19/",
+      "downloaded_at": "2022-08-31 17:07:28.060643Z",
+      "sha": "94ba85ac4ba4149a821d4455743430fd2469fd2d"
+    },
+    "opensafely-statin-medication.csv": {
+      "id": "opensafely/statin-medication/2020-04-20",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/statin-medication/2020-04-20/",
+      "downloaded_at": "2022-08-31 17:07:28.374659Z",
+      "sha": "82f975a7be188364a1ef1aa5f8ff52f75e499612"
+    },
+    "opensafely-sulfasalazine-oral-dmd.csv": {
+      "id": "opensafely/sulfasalazine-oral-dmd/1a189116",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/sulfasalazine-oral-dmd/1a189116/",
+      "downloaded_at": "2022-08-31 17:07:28.652538Z",
+      "sha": "295d27dc7f03635498c460ad4d16686608f02c71"
+    },
+    "opensafely-thiazide-type-diuretic-medication.csv": {
+      "id": "opensafely/thiazide-type-diuretic-medication/2020-05-19",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/thiazide-type-diuretic-medication/2020-05-19/",
+      "downloaded_at": "2022-08-31 17:07:28.943641Z",
+      "sha": "9bb1c197e0733d2e53a5dece516caf75e458be2c"
+    },
+    "opensafely-warfarin.csv": {
+      "id": "opensafely/warfarin/2020-10-05",
+      "url": "https://codelists.opensafely.org/codelist/opensafely/warfarin/2020-10-05/",
+      "downloaded_at": "2022-08-31 17:07:29.225074Z",
+      "sha": "971d819a24d4c04bea3000390e9fb2f718fb3b22"
+    }
+  }
 }
