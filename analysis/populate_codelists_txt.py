@@ -12,6 +12,18 @@ def get_page(url):
     return html.parse(request.urlopen(rq))
 
 
+def get_redirected_url(url):
+    rq = request.Request(url, data=None, headers={"User-Agent": SAFE_UA})
+    res = request.urlopen(rq)
+    return res.url
+
+
+def generate_codelist_txt_entry(url):
+    time.sleep(0.1)
+    redirected = get_redirected_url("https://www.opencodelists.org"+url)
+    return redirected.replace("https://www.opencodelists.org/codelist/", "")
+
+
 dm_d_codelists = []
 
 codelist_page = get_page(OPENSAFELY_CODELISTS)
@@ -20,7 +32,7 @@ while True:
     codelists_dl = codelist_page.xpath('//*/dl[@class="home-codelists"]')[0]
     dm_d_codelists.extend(
         [
-            e[0].get("href").replace("/codelist/", "")
+            generate_codelist_txt_entry(e[0].get("href"))
             for e in codelists_dl.xpath("dt")
             if e[1].text == "dm+d"
         ]
