@@ -11,11 +11,12 @@ codelists = list(set(codelists))
 def codelist_name(path):
     return path.replace('codelists/', '')\
         .replace('.csv', '')\
-        .replace('-', '_')
+        .replace('-', '_')\
+        .replace('local_', '')
 
 
 def new_codelist_path(path):
-    return path.replace('.csv', '_new.csv')
+    return "local_"+path.replace('.csv', '_new.csv')
 
 
 def codelist_from_csv(path):
@@ -33,7 +34,7 @@ with open("analysis/codelists.py", "w") as f:
     f.write("from cohortextractor import codelist_from_csv\n")
     f.write("dict_codelists = {\n")
     for c in codelists:
-        f.write(f"'{codelist_name(c)}': {codelist_from_csv(c)},\n")
+        f.write(f"    '{codelist_name(c)}': {codelist_from_csv(c)},\n")
         n = new_codelist_path(c)
-        f.write(f"'{codelist_name(n)}': {codelist_from_csv(n)},\n")
+        f.write(f"    '{codelist_name(n)}': {codelist_from_csv(n)},\n")
     f.write("}\n")

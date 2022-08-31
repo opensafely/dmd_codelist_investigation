@@ -40,7 +40,7 @@ with open("match_report.json", "w") as f:
 for ids, changes in changed_vmp_files.items():
     id, old_vpid = ids
     for file in changes["files"]:
-        new_file = file.replace(".csv", "_new.csv")
+        new_file = "local_"+file.replace(".csv", "_new.csv")
         with open(file, "r") as of, open(new_file, "w") as nf:
             nf.write(
                 re.sub(rf"(?<![0-9]){old_vpid}(?![0-9])", f"{id}", of.read())
