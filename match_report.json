@@ -1,1 +1,1051 @@
-{"329574003->329574003": {"matches": 2, "files": ["codelists/opensafely-nsaids-oral.csv"]}, "1137333005->449109006": {"matches": 1, "files": ["codelists/opensafely-angiotensin-ii-receptor-blockers-arbs.csv"]}, "1137623008->449333009": {"matches": 1, "files": ["codelists/opensafely-angiotensin-ii-receptor-blockers-arbs.csv"]}, "38750211000001107->318213008": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "38751111000001107->318407001": {"matches": 1, "files": ["codelists/opensafely-beta-blocker-medications.csv"]}, "38751211000001101->318406005": {"matches": 1, "files": ["codelists/opensafely-beta-blocker-medications.csv"]}, "38893611000001108->703924000": {"matches": 1, "files": ["codelists/opensafely-single-ingredient-lama-inhalers.csv"]}, "38893711000001104->411533003": {"matches": 1, "files": ["codelists/opensafely-antidiabetic-drugs.csv"]}, "38893811000001107->409361001": {"matches": 1, "files": ["codelists/opensafely-antidiabetic-drugs.csv"]}, "38894511000001107->414538008": {"matches": 1, "files": ["codelists/opensafely-sama-medication.csv"]}, "38895411000001109->408026006": {"matches": 4, "files": ["codelists/opensafely-single-ingredient-ics.csv", "codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv", "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"]}, "38895611000001107->408013007": {"matches": 4, "files": ["codelists/opensafely-single-ingredient-ics.csv", "codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv", "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"]}, "38896211000001104->134587001": {"matches": 1, "files": ["codelists/opensafely-antidiabetic-drugs.csv"]}, "38896511000001101->319248007": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "38896811000001103->134498003": {"matches": 4, "files": ["codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv", "codelists/opensafely-laba-ics-combination-inhaler.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv"]}, "38896911000001108->400780006": {"matches": 1, "files": ["codelists/opensafely-insulin-medication.csv"]}, "38897011000001107->400877001": {"matches": 1, "files": ["codelists/opensafely-insulin-medication.csv"]}, "38897411000001103->320280004": {"matches": 4, "files": ["codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-high-dose-ics-inhalers.csv", "codelists/opensafely-high-dose-multiple-ingredient-ics-inhalers.csv", "codelists/opensafely-laba-ics-combination-inhaler.csv"]}, "38897511000001104->320279002": {"matches": 4, "files": ["codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv", "codelists/opensafely-laba-ics-combination-inhaler.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv"]}, "38897611000001100->320277000": {"matches": 4, "files": ["codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv", "codelists/opensafely-laba-ics-combination-inhaler.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv"]}, "38897711000001109->320605000": {"matches": 4, "files": ["codelists/opensafely-single-ingredient-ics.csv", "codelists/opensafely-high-dose-ics-inhalers.csv", "codelists/opensafely-high-dose-single-ingredient-ics-inhalers.csv", "codelists/opensafely-asthma-inhaler-steroid-medication.csv"]}, "38897811000001101->320603007": {"matches": 4, "files": ["codelists/opensafely-single-ingredient-ics.csv", "codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv", "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"]}, "38897911000001106->320602002": {"matches": 4, "files": ["codelists/opensafely-single-ingredient-ics.csv", "codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv", "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"]}, "39020311000001104->319291002": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39020411000001106->134456001": {"matches": 1, "files": ["codelists/opensafely-alpha-adrenoceptor-blocking-drugs.csv"]}, "39020511000001105->319288002": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39020611000001109->319287007": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39020711000001100->317954006": {"matches": 1, "files": ["codelists/opensafely-thiazide-type-diuretic-medication.csv"]}, "39021011000001106->318250009": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39021111000001107->135921004": {"matches": 1, "files": ["codelists/opensafely-alpha-adrenoceptor-blocking-drugs.csv"]}, "39021411000001102->398942003": {"matches": 1, "files": ["codelists/opensafely-proton-pump-inhibitors-ppi-oral.csv"]}, "39021511000001103->398905005": {"matches": 1, "files": ["codelists/opensafely-proton-pump-inhibitors-ppi-oral.csv"]}, "39021611000001104->398787005": {"matches": 1, "files": ["codelists/opensafely-proton-pump-inhibitors-ppi-oral.csv"]}, "39021711000001108->319216008": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39021811000001100->319215007": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39022511000001106->319273007": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39022611000001105->319276004": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39022711000001101->319274001": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39022811000001109->319277008": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39022911000001104->319272002": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39023011000001107->319185009": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39023111000001108->319182007": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39023211000001102->319183002": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39023311000001105->319184008": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39023411000001103->319187001": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39023511000001104->319186005": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39023611000001100->319181000": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39023711000001109->319198000": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39023811000001101->319205001": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39023911000001106->319180004": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39024011000001109->418945005": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39024511000001101->329607001": {"matches": 17, "files": ["codelists/opensafely-nsaids-oral.csv"]}, "39024911000001108->329757001": {"matches": 2, "files": ["codelists/opensafely-indometacin.csv"]}, "39107511000001109->319247002": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39107611000001108->319233001": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39108011000001100->320831001": {"matches": 1, "files": ["codelists/opensafely-antihistamines-oral.csv"]}, "39108111000001104->329686007": {"matches": 61, "files": ["codelists/opensafely-ibuprofen-oral.csv", "codelists/opensafely-nsaids-oral.csv"]}, "39109711000001107->329622006": {"matches": 10, "files": ["codelists/opensafely-nsaids-oral.csv"]}, "39110311000001101->329662005": {"matches": 4, "files": ["codelists/opensafely-ibuprofen-oral.csv", "codelists/opensafely-nsaids-oral.csv"]}, "39110811000001105->320244004": {"matches": 1, "files": ["codelists/opensafely-single-ingredient-laba-inhalers.csv"]}, "39110911000001100->320618008": {"matches": 4, "files": ["codelists/opensafely-single-ingredient-ics.csv", "codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv", "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"]}, "39111011000001108->320274007": {"matches": 4, "files": ["codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv", "codelists/opensafely-laba-ics-combination-inhaler.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv"]}, "39111111000001109->320275008": {"matches": 4, "files": ["codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv", "codelists/opensafely-laba-ics-combination-inhaler.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv"]}, "39111211000001103->320614005": {"matches": 4, "files": ["codelists/opensafely-single-ingredient-ics.csv", "codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv", "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"]}, "39111311000001106->320276009": {"matches": 4, "files": ["codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-high-dose-ics-inhalers.csv", "codelists/opensafely-high-dose-multiple-ingredient-ics-inhalers.csv", "codelists/opensafely-laba-ics-combination-inhaler.csv"]}, "39111411000001104->320615006": {"matches": 4, "files": ["codelists/opensafely-single-ingredient-ics.csv", "codelists/opensafely-high-dose-ics-inhalers.csv", "codelists/opensafely-high-dose-single-ingredient-ics-inhalers.csv", "codelists/opensafely-asthma-inhaler-steroid-medication.csv"]}, "39111711000001105->319275000": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39112711000001103->320151000": {"matches": 2, "files": ["codelists/opensafely-asthma-inhaler-salbutamol-medication.csv", "codelists/opensafely-saba-inhaler-medications.csv"]}, "39112911000001101->320263003": {"matches": 1, "files": ["codelists/opensafely-single-ingredient-laba-inhalers.csv"]}, "39113011000001109->320264009": {"matches": 1, "files": ["codelists/opensafely-single-ingredient-laba-inhalers.csv"]}, "39113111000001105->320206008": {"matches": 1, "files": ["codelists/opensafely-saba-inhaler-medications.csv"]}, "39113211000001104->320250009": {"matches": 1, "files": ["codelists/opensafely-single-ingredient-laba-inhalers.csv"]}, "39113311000001107->320141001": {"matches": 2, "files": ["codelists/opensafely-asthma-inhaler-salbutamol-medication.csv", "codelists/opensafely-saba-inhaler-medications.csv"]}, "39113511000001101->386047000": {"matches": 1, "files": ["codelists/opensafely-antidiabetic-drugs.csv"]}, "39113611000001102->320139002": {"matches": 2, "files": ["codelists/opensafely-asthma-inhaler-salbutamol-medication.csv", "codelists/opensafely-saba-inhaler-medications.csv"]}, "39685211000001103->318916009": {"matches": 1, "files": ["codelists/opensafely-ace-inhibitor-medications.csv"]}, "39685311000001106->318917000": {"matches": 1, "files": ["codelists/opensafely-ace-inhibitor-medications.csv"]}, "39685911000001107->318923005": {"matches": 1, "files": ["codelists/opensafely-ace-inhibitor-medications.csv"]}, "39686011000001104->318915008": {"matches": 1, "files": ["codelists/opensafely-ace-inhibitor-medications.csv"]}, "39688911000001101->320713009": {"matches": 1, "files": ["codelists/opensafely-antihistamines-oral.csv"]}, "39689111000001106->319799004": {"matches": 1, "files": ["codelists/opensafely-antiplatelets.csv"]}, "39689411000001101->409322009": {"matches": 1, "files": ["codelists/opensafely-oestrogen-and-oestrogen-like-drugs.csv"]}, "39689811000001104->703680009": {"matches": 1, "files": ["codelists/opensafely-antidiabetic-drugs.csv"]}, "39689911000001109->703679006": {"matches": 1, "files": ["codelists/opensafely-antidiabetic-drugs.csv"]}, "39690211000001106->329963003": {"matches": 2, "files": ["codelists/opensafely-nsaids-oral.csv"]}, "39691911000001109->318849001": {"matches": 1, "files": ["codelists/opensafely-combination-blood-pressure-medication.csv"]}, "39692011000001102->329641009": {"matches": 2, "files": ["codelists/opensafely-nsaids-oral.csv"]}, "39692311000001104->321936001": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39692411000001106->321407005": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39692511000001105->321935002": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39693011000001106->320022002": {"matches": 1, "files": ["codelists/opensafely-statin-medication.csv"]}, "39693111000001107->320023007": {"matches": 1, "files": ["codelists/opensafely-statin-medication.csv"]}, "39693411000001102->318892006": {"matches": 1, "files": ["codelists/opensafely-combination-blood-pressure-medication.csv"]}, "39693611000001104->407904005": {"matches": 9, "files": ["codelists/opensafely-ibuprofen-oral.csv", "codelists/opensafely-nsaids-oral.csv"]}, "39695211000001102->329526003": {"matches": 1, "files": ["codelists/opensafely-aspirin.csv"]}, "39695411000001103->320029006": {"matches": 1, "files": ["codelists/opensafely-statin-medication.csv"]}, "39695611000001100->320535004": {"matches": 4, "files": ["codelists/opensafely-single-ingredient-ics.csv", "codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv", "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"]}, "39695711000001109->320520000": {"matches": 4, "files": ["codelists/opensafely-single-ingredient-ics.csv", "codelists/opensafely-asthma-inhaler-steroid-medication.csv", "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv", "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"]}, "39696211000001108->317956008": {"matches": 1, "files": ["codelists/opensafely-thiazide-type-diuretic-medication.csv"]}, "39696711000001101->318740009": {"matches": 1, "files": ["codelists/opensafely-alpha-adrenoceptor-blocking-drugs.csv"]}, "39696911000001104->320666001": {"matches": 1, "files": ["codelists/opensafely-antihistamines-oral.csv"]}, "39697111000001104->320667005": {"matches": 1, "files": ["codelists/opensafely-antihistamines-oral.csv"]}, "39697811000001106->424608008": {"matches": 1, "files": ["codelists/opensafely-levothyroxine.csv"]}, "39697911000001101->374296008": {"matches": 1, "files": ["codelists/opensafely-levothyroxine.csv"]}, "39698111000001103->422486000": {"matches": 1, "files": ["codelists/opensafely-levothyroxine.csv"]}, "39698211000001109->424458007": {"matches": 1, "files": ["codelists/opensafely-levothyroxine.csv"]}, "39698311000001101->374294006": {"matches": 1, "files": ["codelists/opensafely-levothyroxine.csv"]}, "39698511000001107->424293002": {"matches": 1, "files": ["codelists/opensafely-levothyroxine.csv"]}, "39698611000001106->374295007": {"matches": 1, "files": ["codelists/opensafely-levothyroxine.csv"]}, "39698811000001105->423266009": {"matches": 1, "files": ["codelists/opensafely-levothyroxine.csv"]}, "39698911000001100->376988009": {"matches": 1, "files": ["codelists/opensafely-levothyroxine.csv"]}, "39699511000001101->321566001": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39699611000001102->321567005": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39699711000001106->321568000": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39699811000001103->320714003": {"matches": 1, "files": ["codelists/opensafely-antihistamines-oral.csv"]}, "39701011000001101->432159000": {"matches": 1, "files": ["codelists/opensafely-beta-blocker-medications.csv"]}, "39701111000001100->432118006": {"matches": 1, "files": ["codelists/opensafely-beta-blocker-medications.csv"]}, "39701211000001106->318640004": {"matches": 1, "files": ["codelists/opensafely-beta-blocker-medications.csv"]}, "39701911000001102->421041006": {"matches": 1, "files": ["codelists/opensafely-selective-serotonin-reuptake-inhibitors-dmd.csv"]}, "39702811000001103->443469008": {"matches": 1, "files": ["codelists/opensafely-antiplatelets.csv"]}, "39702911000001108->443088009": {"matches": 1, "files": ["codelists/opensafely-antiplatelets.csv"]}, "39703111000001104->321635004": {"matches": 1, "files": ["codelists/opensafely-second-generation-antipsychotics-excluding-long-acting-injections.csv"]}, "39703811000001106->443067000": {"matches": 1, "files": ["codelists/opensafely-antidiabetic-drugs.csv"]}, "39703911000001101->443713000": {"matches": 1, "files": ["codelists/opensafely-antidiabetic-drugs.csv"]}, "39704011000001103->321960002": {"matches": 1, "files": ["codelists/opensafely-selective-serotonin-reuptake-inhibitors-dmd.csv"]}, "39704111000001102->321959007": {"matches": 1, "files": ["codelists/opensafely-selective-serotonin-reuptake-inhibitors-dmd.csv"]}, "39704411000001107->327312004": {"matches": 1, "files": ["codelists/opensafely-oestrogen-and-oestrogen-like-drugs.csv"]}, "39704511000001106->327313009": {"matches": 1, "files": ["codelists/opensafely-oestrogen-and-oestrogen-like-drugs.csv"]}, "39704611000001105->327335001": {"matches": 1, "files": ["codelists/opensafely-oestrogen-and-oestrogen-like-drugs.csv"]}, "39706011000001108->321547001": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39706211000001103->321548006": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39707711000001108->321564003": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39707911000001105->321563009": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39708111000001108->321565002": {"matches": 1, "files": ["codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"]}, "39708211000001102->320697002": {"matches": 1, "files": ["codelists/opensafely-antihistamines-oral.csv"]}, "39709511000001105->320180009": {"matches": 1, "files": ["codelists/opensafely-nebulised-asthma-and-copd-medications.csv"]}, "39709611000001109->320177008": {"matches": 1, "files": ["codelists/opensafely-nebulised-asthma-and-copd-medications.csv"]}, "39709711000001100->320178003": {"matches": 2, "files": ["codelists/opensafely-asthma-inhaler-salbutamol-medication.csv", "codelists/opensafely-saba-inhaler-medications.csv"]}, "39709811000001108->320179006": {"matches": 2, "files": ["codelists/opensafely-asthma-inhaler-salbutamol-medication.csv", "codelists/opensafely-saba-inhaler-medications.csv"]}, "39709911000001103->329591004": {"matches": 2, "files": ["codelists/opensafely-nsaids-oral.csv"]}, "39710011000001108->320171009": {"matches": 1, "files": ["codelists/opensafely-nebulised-asthma-and-copd-medications.csv"]}, "39710511000001100->320445000": {"matches": 1, "files": ["codelists/opensafely-nebulised-asthma-and-copd-medications.csv"]}, "39711511000001107->349394001": {"matches": 1, "files": ["codelists/opensafely-nebulised-asthma-and-copd-medications.csv"]}, "39712311000001105->320610001": {"matches": 1, "files": ["codelists/opensafely-nebulised-asthma-and-copd-medications.csv"]}, "39712511000001104->320611002": {"matches": 1, "files": ["codelists/opensafely-nebulised-asthma-and-copd-medications.csv"]}, "39713211000001108->327244002": {"matches": 1, "files": ["codelists/opensafely-oestrogen-and-oestrogen-like-drugs.csv"]}, "39714511000001109->317433006": {"matches": 2, "files": ["codelists/opensafely-dmards.csv"]}, "39716611000001104->348047008": {"matches": 13, "files": ["codelists/opensafely-influenza-vaccination.csv"]}, "39716811000001100->348046004": {"matches": 10, "files": ["codelists/opensafely-influenza-vaccination.csv"]}, "39717211000001104->320346000": {"matches": 1, "files": ["codelists/opensafely-nebulised-asthma-and-copd-medications.csv"]}, "39717311000001107->320340006": {"matches": 1, "files": ["codelists/opensafely-sama-medication.csv"]}, "39717511000001101->320347009": {"matches": 1, "files": ["codelists/opensafely-nebulised-asthma-and-copd-medications.csv"]}, "39721011000001108->329881004": {"matches": 5, "files": ["codelists/opensafely-nsaids-oral.csv"]}, "39721211000001103->329882006": {"matches": 6, "files": ["codelists/opensafely-nsaids-oral.csv"]}, "39722711000001103->325444003": {"matches": 18, "files": ["codelists/opensafely-asthma-oral-prednisolone-medication.csv"]}, "39724211000001101->318412000": {"matches": 1, "files": ["codelists/opensafely-beta-blocker-medications.csv"]}, "39725211000001100->318413005": {"matches": 1, "files": ["codelists/opensafely-beta-blocker-medications.csv"]}, "39725711000001107->318414004": {"matches": 1, "files": ["codelists/opensafely-beta-blocker-medications.csv"]}, "39731911000001109->319284000": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39732011000001102->319283006": {"matches": 1, "files": ["codelists/opensafely-calcium-channel-blockers.csv"]}, "39733011000001106->320030001": {"matches": 1, "files": ["codelists/opensafely-statin-medication.csv"]}, "39733111000001107->320031002": {"matches": 1, "files": ["codelists/opensafely-statin-medication.csv"]}, "39733211000001101->134489001": {"matches": 1, "files": ["codelists/opensafely-statin-medication.csv"]}, "39733511000001103->324258005": {"matches": 1, "files": ["codelists/opensafely-azithromycin-medication.csv"]}, "39734511000001100->703682001": {"matches": 1, "files": ["codelists/opensafely-antidiabetic-drugs.csv"]}}
+{
+    "329574003->329574003": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "1137333005->449109006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-angiotensin-ii-receptor-blockers-arbs.csv"
+        ]
+    },
+    "1137623008->449333009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-angiotensin-ii-receptor-blockers-arbs.csv"
+        ]
+    },
+    "38750211000001107->318213008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "38751111000001107->318407001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-beta-blocker-medications.csv"
+        ]
+    },
+    "38751211000001101->318406005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-beta-blocker-medications.csv"
+        ]
+    },
+    "38893611000001108->703924000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-single-ingredient-lama-inhalers.csv"
+        ]
+    },
+    "38893711000001104->411533003": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antidiabetic-drugs.csv"
+        ]
+    },
+    "38893811000001107->409361001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antidiabetic-drugs.csv"
+        ]
+    },
+    "38894511000001107->414538008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-sama-medication.csv"
+        ]
+    },
+    "38895411000001109->408026006": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-single-ingredient-ics.csv",
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv",
+            "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"
+        ]
+    },
+    "38895611000001107->408013007": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-single-ingredient-ics.csv",
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv",
+            "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"
+        ]
+    },
+    "38896211000001104->134587001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antidiabetic-drugs.csv"
+        ]
+    },
+    "38896511000001101->319248007": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "38896811000001103->134498003": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv",
+            "codelists/opensafely-laba-ics-combination-inhaler.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv"
+        ]
+    },
+    "38896911000001108->400780006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-insulin-medication.csv"
+        ]
+    },
+    "38897011000001107->400877001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-insulin-medication.csv"
+        ]
+    },
+    "38897411000001103->320280004": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-high-dose-ics-inhalers.csv",
+            "codelists/opensafely-high-dose-multiple-ingredient-ics-inhalers.csv",
+            "codelists/opensafely-laba-ics-combination-inhaler.csv"
+        ]
+    },
+    "38897511000001104->320279002": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv",
+            "codelists/opensafely-laba-ics-combination-inhaler.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv"
+        ]
+    },
+    "38897611000001100->320277000": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv",
+            "codelists/opensafely-laba-ics-combination-inhaler.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv"
+        ]
+    },
+    "38897711000001109->320605000": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-single-ingredient-ics.csv",
+            "codelists/opensafely-high-dose-ics-inhalers.csv",
+            "codelists/opensafely-high-dose-single-ingredient-ics-inhalers.csv",
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv"
+        ]
+    },
+    "38897811000001101->320603007": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-single-ingredient-ics.csv",
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv",
+            "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"
+        ]
+    },
+    "38897911000001106->320602002": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-single-ingredient-ics.csv",
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv",
+            "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"
+        ]
+    },
+    "39020311000001104->319291002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39020411000001106->134456001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-alpha-adrenoceptor-blocking-drugs.csv"
+        ]
+    },
+    "39020511000001105->319288002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39020611000001109->319287007": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39020711000001100->317954006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-thiazide-type-diuretic-medication.csv"
+        ]
+    },
+    "39021011000001106->318250009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39021111000001107->135921004": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-alpha-adrenoceptor-blocking-drugs.csv"
+        ]
+    },
+    "39021411000001102->398942003": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-proton-pump-inhibitors-ppi-oral.csv"
+        ]
+    },
+    "39021511000001103->398905005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-proton-pump-inhibitors-ppi-oral.csv"
+        ]
+    },
+    "39021611000001104->398787005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-proton-pump-inhibitors-ppi-oral.csv"
+        ]
+    },
+    "39021711000001108->319216008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39021811000001100->319215007": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39022511000001106->319273007": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39022611000001105->319276004": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39022711000001101->319274001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39022811000001109->319277008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39022911000001104->319272002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39023011000001107->319185009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39023111000001108->319182007": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39023211000001102->319183002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39023311000001105->319184008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39023411000001103->319187001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39023511000001104->319186005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39023611000001100->319181000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39023711000001109->319198000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39023811000001101->319205001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39023911000001106->319180004": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39024011000001109->418945005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39024511000001101->329607001": {
+        "matches": 17,
+        "files": [
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "39024911000001108->329757001": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-indometacin.csv"
+        ]
+    },
+    "39107511000001109->319247002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39107611000001108->319233001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39108011000001100->320831001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antihistamines-oral.csv"
+        ]
+    },
+    "39108111000001104->329686007": {
+        "matches": 61,
+        "files": [
+            "codelists/opensafely-ibuprofen-oral.csv",
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "39109711000001107->329622006": {
+        "matches": 10,
+        "files": [
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "39110311000001101->329662005": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-ibuprofen-oral.csv",
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "39110811000001105->320244004": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-single-ingredient-laba-inhalers.csv"
+        ]
+    },
+    "39110911000001100->320618008": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-single-ingredient-ics.csv",
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv",
+            "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"
+        ]
+    },
+    "39111011000001108->320274007": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv",
+            "codelists/opensafely-laba-ics-combination-inhaler.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv"
+        ]
+    },
+    "39111111000001109->320275008": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-multiple-ingredient-ics-inhalers.csv",
+            "codelists/opensafely-laba-ics-combination-inhaler.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv"
+        ]
+    },
+    "39111211000001103->320614005": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-single-ingredient-ics.csv",
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv",
+            "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"
+        ]
+    },
+    "39111311000001106->320276009": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-high-dose-ics-inhalers.csv",
+            "codelists/opensafely-high-dose-multiple-ingredient-ics-inhalers.csv",
+            "codelists/opensafely-laba-ics-combination-inhaler.csv"
+        ]
+    },
+    "39111411000001104->320615006": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-single-ingredient-ics.csv",
+            "codelists/opensafely-high-dose-ics-inhalers.csv",
+            "codelists/opensafely-high-dose-single-ingredient-ics-inhalers.csv",
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv"
+        ]
+    },
+    "39111711000001105->319275000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39112711000001103->320151000": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-salbutamol-medication.csv",
+            "codelists/opensafely-saba-inhaler-medications.csv"
+        ]
+    },
+    "39112911000001101->320263003": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-single-ingredient-laba-inhalers.csv"
+        ]
+    },
+    "39113011000001109->320264009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-single-ingredient-laba-inhalers.csv"
+        ]
+    },
+    "39113111000001105->320206008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-saba-inhaler-medications.csv"
+        ]
+    },
+    "39113211000001104->320250009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-single-ingredient-laba-inhalers.csv"
+        ]
+    },
+    "39113311000001107->320141001": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-salbutamol-medication.csv",
+            "codelists/opensafely-saba-inhaler-medications.csv"
+        ]
+    },
+    "39113511000001101->386047000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antidiabetic-drugs.csv"
+        ]
+    },
+    "39113611000001102->320139002": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-salbutamol-medication.csv",
+            "codelists/opensafely-saba-inhaler-medications.csv"
+        ]
+    },
+    "39685211000001103->318916009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-ace-inhibitor-medications.csv"
+        ]
+    },
+    "39685311000001106->318917000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-ace-inhibitor-medications.csv"
+        ]
+    },
+    "39685911000001107->318923005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-ace-inhibitor-medications.csv"
+        ]
+    },
+    "39686011000001104->318915008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-ace-inhibitor-medications.csv"
+        ]
+    },
+    "39688911000001101->320713009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antihistamines-oral.csv"
+        ]
+    },
+    "39689111000001106->319799004": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antiplatelets.csv"
+        ]
+    },
+    "39689411000001101->409322009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-oestrogen-and-oestrogen-like-drugs.csv"
+        ]
+    },
+    "39689811000001104->703680009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antidiabetic-drugs.csv"
+        ]
+    },
+    "39689911000001109->703679006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antidiabetic-drugs.csv"
+        ]
+    },
+    "39690211000001106->329963003": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "39691911000001109->318849001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-combination-blood-pressure-medication.csv"
+        ]
+    },
+    "39692011000001102->329641009": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "39692311000001104->321936001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39692411000001106->321407005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39692511000001105->321935002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39693011000001106->320022002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-statin-medication.csv"
+        ]
+    },
+    "39693111000001107->320023007": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-statin-medication.csv"
+        ]
+    },
+    "39693411000001102->318892006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-combination-blood-pressure-medication.csv"
+        ]
+    },
+    "39693611000001104->407904005": {
+        "matches": 9,
+        "files": [
+            "codelists/opensafely-ibuprofen-oral.csv",
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "39695211000001102->329526003": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-aspirin.csv"
+        ]
+    },
+    "39695411000001103->320029006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-statin-medication.csv"
+        ]
+    },
+    "39695611000001100->320535004": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-single-ingredient-ics.csv",
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv",
+            "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"
+        ]
+    },
+    "39695711000001109->320520000": {
+        "matches": 4,
+        "files": [
+            "codelists/opensafely-single-ingredient-ics.csv",
+            "codelists/opensafely-asthma-inhaler-steroid-medication.csv",
+            "codelists/opensafely-low-and-medium-dose-ics-inhalers.csv",
+            "codelists/opensafely-low-and-medium-dose-single-ingredient-ics-inhalers.csv"
+        ]
+    },
+    "39696211000001108->317956008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-thiazide-type-diuretic-medication.csv"
+        ]
+    },
+    "39696711000001101->318740009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-alpha-adrenoceptor-blocking-drugs.csv"
+        ]
+    },
+    "39696911000001104->320666001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antihistamines-oral.csv"
+        ]
+    },
+    "39697111000001104->320667005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antihistamines-oral.csv"
+        ]
+    },
+    "39697811000001106->424608008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-levothyroxine.csv"
+        ]
+    },
+    "39697911000001101->374296008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-levothyroxine.csv"
+        ]
+    },
+    "39698111000001103->422486000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-levothyroxine.csv"
+        ]
+    },
+    "39698211000001109->424458007": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-levothyroxine.csv"
+        ]
+    },
+    "39698311000001101->374294006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-levothyroxine.csv"
+        ]
+    },
+    "39698511000001107->424293002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-levothyroxine.csv"
+        ]
+    },
+    "39698611000001106->374295007": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-levothyroxine.csv"
+        ]
+    },
+    "39698811000001105->423266009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-levothyroxine.csv"
+        ]
+    },
+    "39698911000001100->376988009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-levothyroxine.csv"
+        ]
+    },
+    "39699511000001101->321566001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39699611000001102->321567005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39699711000001106->321568000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39699811000001103->320714003": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antihistamines-oral.csv"
+        ]
+    },
+    "39701011000001101->432159000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-beta-blocker-medications.csv"
+        ]
+    },
+    "39701111000001100->432118006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-beta-blocker-medications.csv"
+        ]
+    },
+    "39701211000001106->318640004": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-beta-blocker-medications.csv"
+        ]
+    },
+    "39701911000001102->421041006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-selective-serotonin-reuptake-inhibitors-dmd.csv"
+        ]
+    },
+    "39702811000001103->443469008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antiplatelets.csv"
+        ]
+    },
+    "39702911000001108->443088009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antiplatelets.csv"
+        ]
+    },
+    "39703111000001104->321635004": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-second-generation-antipsychotics-excluding-long-acting-injections.csv"
+        ]
+    },
+    "39703811000001106->443067000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antidiabetic-drugs.csv"
+        ]
+    },
+    "39703911000001101->443713000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antidiabetic-drugs.csv"
+        ]
+    },
+    "39704011000001103->321960002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-selective-serotonin-reuptake-inhibitors-dmd.csv"
+        ]
+    },
+    "39704111000001102->321959007": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-selective-serotonin-reuptake-inhibitors-dmd.csv"
+        ]
+    },
+    "39704411000001107->327312004": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-oestrogen-and-oestrogen-like-drugs.csv"
+        ]
+    },
+    "39704511000001106->327313009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-oestrogen-and-oestrogen-like-drugs.csv"
+        ]
+    },
+    "39704611000001105->327335001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-oestrogen-and-oestrogen-like-drugs.csv"
+        ]
+    },
+    "39706011000001108->321547001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39706211000001103->321548006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39707711000001108->321564003": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39707911000001105->321563009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39708111000001108->321565002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-first-generation-antipsychotics-excluding-long-acting-depots-dmd.csv"
+        ]
+    },
+    "39708211000001102->320697002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antihistamines-oral.csv"
+        ]
+    },
+    "39709511000001105->320180009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-nebulised-asthma-and-copd-medications.csv"
+        ]
+    },
+    "39709611000001109->320177008": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-nebulised-asthma-and-copd-medications.csv"
+        ]
+    },
+    "39709711000001100->320178003": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-salbutamol-medication.csv",
+            "codelists/opensafely-saba-inhaler-medications.csv"
+        ]
+    },
+    "39709811000001108->320179006": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-asthma-inhaler-salbutamol-medication.csv",
+            "codelists/opensafely-saba-inhaler-medications.csv"
+        ]
+    },
+    "39709911000001103->329591004": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "39710011000001108->320171009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-nebulised-asthma-and-copd-medications.csv"
+        ]
+    },
+    "39710511000001100->320445000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-nebulised-asthma-and-copd-medications.csv"
+        ]
+    },
+    "39711511000001107->349394001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-nebulised-asthma-and-copd-medications.csv"
+        ]
+    },
+    "39712311000001105->320610001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-nebulised-asthma-and-copd-medications.csv"
+        ]
+    },
+    "39712511000001104->320611002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-nebulised-asthma-and-copd-medications.csv"
+        ]
+    },
+    "39713211000001108->327244002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-oestrogen-and-oestrogen-like-drugs.csv"
+        ]
+    },
+    "39714511000001109->317433006": {
+        "matches": 2,
+        "files": [
+            "codelists/opensafely-dmards.csv"
+        ]
+    },
+    "39716611000001104->348047008": {
+        "matches": 13,
+        "files": [
+            "codelists/opensafely-influenza-vaccination.csv"
+        ]
+    },
+    "39716811000001100->348046004": {
+        "matches": 10,
+        "files": [
+            "codelists/opensafely-influenza-vaccination.csv"
+        ]
+    },
+    "39717211000001104->320346000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-nebulised-asthma-and-copd-medications.csv"
+        ]
+    },
+    "39717311000001107->320340006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-sama-medication.csv"
+        ]
+    },
+    "39717511000001101->320347009": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-nebulised-asthma-and-copd-medications.csv"
+        ]
+    },
+    "39721011000001108->329881004": {
+        "matches": 5,
+        "files": [
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "39721211000001103->329882006": {
+        "matches": 6,
+        "files": [
+            "codelists/opensafely-nsaids-oral.csv"
+        ]
+    },
+    "39722711000001103->325444003": {
+        "matches": 18,
+        "files": [
+            "codelists/opensafely-asthma-oral-prednisolone-medication.csv"
+        ]
+    },
+    "39724211000001101->318412000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-beta-blocker-medications.csv"
+        ]
+    },
+    "39725211000001100->318413005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-beta-blocker-medications.csv"
+        ]
+    },
+    "39725711000001107->318414004": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-beta-blocker-medications.csv"
+        ]
+    },
+    "39731911000001109->319284000": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39732011000001102->319283006": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-calcium-channel-blockers.csv"
+        ]
+    },
+    "39733011000001106->320030001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-statin-medication.csv"
+        ]
+    },
+    "39733111000001107->320031002": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-statin-medication.csv"
+        ]
+    },
+    "39733211000001101->134489001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-statin-medication.csv"
+        ]
+    },
+    "39733511000001103->324258005": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-azithromycin-medication.csv"
+        ]
+    },
+    "39734511000001100->703682001": {
+        "matches": 1,
+        "files": [
+            "codelists/opensafely-antidiabetic-drugs.csv"
+        ]
+    }
+}
