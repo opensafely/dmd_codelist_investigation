@@ -786,15 +786,15 @@ vmp,12422611000001106,020400080AAADAD,Carvedilol 3.125mg/5ml oral suspension
 vmp,318633000,020400080AAAEAE,Carvedilol 3.125mg tablets
 vmp,318635007,020400080AAAFAF,Carvedilol 6.25mg tablets
 vmp,8356811000001107,020400080AAAPAP,Carvedilol 5mg/5ml oral suspension
-vmp,318640004,0204000ABAAAAAA,Nebivolol 5mg tablets
-vmp,432118006,0204000ABAAABAB,Nebivolol 2.5mg tablets
-vmp,432159000,0204000ABAAACAC,Nebivolol 10mg tablets
+vmp,39701211000001106,0204000ABAAAAAA,Nebivolol 5mg tablets
+vmp,39701111000001100,0204000ABAAABAB,Nebivolol 2.5mg tablets
+vmp,39701011000001101,0204000ABAAACAC,Nebivolol 10mg tablets
 vmp,28365711000001103,0204000ACAAAAAA,Bisoprolol 5mg / Aspirin 75mg capsules
 vmp,28365411000001109,0204000ACAAABAB,Bisoprolol 10mg / Aspirin 75mg capsules
 vmp,28365311000001102,0204000ACAAACAC,Bisoprolol 10mg / Aspirin 100mg capsules
 vmp,28365611000001107,0204000ACAAADAD,Bisoprolol 5mg / Aspirin 100mg capsules
-vmp,318412000,0204000C0AAAAAA,Acebutolol 100mg capsules
-vmp,318413005,0204000C0AAABAB,Acebutolol 200mg capsules
+vmp,39724211000001101,0204000C0AAAAAA,Acebutolol 100mg capsules
+vmp,39725211000001100,0204000C0AAABAB,Acebutolol 200mg capsules
 vmp,39725711000001107,0204000C0AAADAD,Acebutolol 400mg tablets
 vmp,35903211000001107,0204000E0AAAAAA,Atenolol 25mg/5ml oral solution sugar free
 vmp,318420003,0204000E0AAABAB,Atenolol 50mg tablets
@@ -866,8 +866,8 @@ vmp,318485006,0204000N0AAADAD,Oxprenolol 80mg tablets
 vmp,36023011000001102,0204000N0AAAFAF,Oxprenolol 160mg modified-release tablets
 vmp,318512002,0204000P0AAAAAA,Pindolol 5mg tablets
 vmp,318513007,0204000P0AAABAB,Pindolol 15mg tablets
-vmp,318407001,0204000R0AAAAAA,Propranolol 80mg modified-release capsules
-vmp,318406005,0204000R0AAABAB,Propranolol 160mg modified-release capsules
+vmp,38751111000001107,0204000R0AAAAAA,Propranolol 80mg modified-release capsules
+vmp,38751211000001101,0204000R0AAABAB,Propranolol 160mg modified-release capsules
 vmp,318352004,0204000R0AAAHAH,Propranolol 10mg tablets
 vmp,318353009,0204000R0AAAJAJ,Propranolol 40mg tablets
 vmp,318354003,0204000R0AAAKAK,Propranolol 80mg tablets

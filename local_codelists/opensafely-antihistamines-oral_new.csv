@@ -401,7 +401,7 @@ amp,445611000001100,0304010Y0BBABAB,Vallergan 7.5mg/5ml syrup (Sanofi)
 amp,232611000001109,0304010Y0BBACAC,Vallergan Forte 30mg/5ml syrup (Sanofi)
 vmp,320814008,0304010A0AAAAAA,Acrivastine 8mg capsules
 vmp,377470000,0304010A0AAACAC,Pseudoephedrine 60mg / Acrivastine 8mg capsules
-vmp,320831001,0304010AAAAAAAA,Mizolastine 10mg modified-release tablets
+vmp,39108011000001100,0304010AAAAAAAA,Mizolastine 10mg modified-release tablets
 vmp,134508009,0304010ABAAAAAA,Desloratadine 5mg tablets
 vmp,3344611000001102,0304010ABAAABAB,Desloratadine 2.5mg/5ml oral solution
 vmp,16101011000001100,0304010ABAAADAD,Desloratadine 2.5mg/5ml oral solution sugar free
@@ -411,9 +411,9 @@ vmp,4939411000001108,0304010ADAAAAAA,Phenylpropanolamine 50mg / Chlorphenamine 4
 vmp,15859211000001108,0304010AEAAAAAA,Rupatadine 10mg tablets
 vmp,36786911000001101,0304010AEAAABAB,Rupatadine 1mg/ml oral solution
 vmp,18759311000001105,0304010AFAAAAAA,Bilastine 20mg tablets
-vmp,320666001,0304010AGAAAAAA,Ketotifen 1mg capsules
+vmp,39696911000001104,0304010AGAAAAAA,Ketotifen 1mg capsules
 vmp,4030311000001100,0304010AGAAABAB,Ketotifen 1mg/5ml oral solution sugar free
-vmp,320667005,0304010AGAAACAC,Ketotifen 1mg tablets
+vmp,39697111000001104,0304010AGAAACAC,Ketotifen 1mg tablets
 vmp,36459411000001102,0304010AGAAADAD,Ketotifen 500micrograms/5ml oral solution
 vmp,36459311000001109,0304010AGAAAEAE,Ketotifen 250micrograms/5ml oral suspension
 vmp,35905911000001102,0304010C0AAAAAA,Azatadine 500micrograms/5ml oral solution
@@ -437,8 +437,8 @@ vmp,37083011000001106,0304010G0AAABAB,Chlorphenamine 2mg/5ml oral solution
 vmp,39708211000001102,0304010G0AAACAC,Chlorphenamine 4mg tablets
 vmp,12018311000001104,0304010G0AAALAL,Chlorphenamine 50mg/5ml oral solution
 vmp,37083111000001107,0304010G0AAAPAP,Chlorphenamine 2mg/5ml oral solution sugar free
-vmp,320714003,0304010H0AAAAAA,Clemastine 500micrograms/5ml oral solution sugar free
-vmp,320713009,0304010H0AAABAB,Clemastine 1mg tablets
+vmp,39699811000001103,0304010H0AAAAAA,Clemastine 500micrograms/5ml oral solution sugar free
+vmp,39688911000001101,0304010H0AAABAB,Clemastine 1mg tablets
 vmp,320818006,0304010I0AAAAAA,Cetirizine 10mg tablets
 vmp,37082911000001103,0304010I0AAABAB,Cetirizine 1mg/ml oral solution sugar free
 vmp,20344911000001107,0304010I0AAADAD,Cetirizine 10mg capsules

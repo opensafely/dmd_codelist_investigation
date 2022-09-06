@@ -1,9 +1,9 @@
 dmd_type,dmd_id,dmd_name,bnf_code
-VMP,423266009,Levothyroxine sodium 75microgram capsules,0602010V0AAAEAE
+VMP,39698811000001105,Levothyroxine sodium 75microgram capsules,0602010V0AAAEAE
 AMP,8787811000001100,Levothyroxine sodium 75microgram capsules,0602010V0AAAEAE
-VMP,424293002,Levothyroxine sodium 50microgram capsules,0602010V0AAAFAF
+VMP,39698511000001107,Levothyroxine sodium 50microgram capsules,0602010V0AAAFAF
 AMP,8787211000001100,Levothyroxine sodium 50microgram capsules,0602010V0AAAFAF
-VMP,424458007,Levothyroxine sodium 25microgram capsules,0602010V0AAAGAG
+VMP,39698211000001109,Levothyroxine sodium 25microgram capsules,0602010V0AAAGAG
 AMP,8787511000001100,Levothyroxine sodium 25microgram capsules,0602010V0AAAGAG
 VMP,8817111000001100,Levothyroxine sodium 25microgram oral powder sachets,0602010V0AAAIAI
 AMP,8811311000001100,Levothyroxine sodium 25microgram oral powder sachets,0602010V0AAAIAI
@@ -19,7 +19,7 @@ VMP,8817211000001100,Levothyroxine sodium 30microgram oral powder sachets,060201
 AMP,8811611000001100,Levothyroxine sodium 30microgram oral powder sachets,0602010V0AABTBT
 VMP,8817311000001100,Levothyroxine sodium 40microgram oral powder sachets,0602010V0AABVBV
 AMP,8812211000001100,Levothyroxine sodium 40microgram oral powder sachets,0602010V0AABVBV
-VMP,374294006,Levothyroxine sodium 25microgram tablets,0602010V0AABWBW
+VMP,39698311000001101,Levothyroxine sodium 25microgram tablets,0602010V0AABWBW
 AMP,262411000001104,Levothyroxine sodium 25microgram tablets,0602010V0AABWBW
 AMP,48011000001109,Levothyroxine sodium 25microgram tablets,0602010V0AABWBW
 AMP,20537711000001100,Levothyroxine sodium 25microgram tablets,0602010V0AABWBW
@@ -37,7 +37,7 @@ AMP,869311000001105,Levothyroxine sodium 25microgram tablets,0602010V0AABWBW
 AMP,22070911000001100,Levothyroxine sodium 25microgram tablets,0602010V0AABWBW
 AMP,743111000001102,Levothyroxine sodium 25microgram tablets,0602010V0AABWBW
 AMP,19845811000001100,Levothyroxine sodium 25microgram tablets lactose free,0602010V0AABWBW
-VMP,374295007,Levothyroxine sodium 50microgram tablets,0602010V0AABXBX
+VMP,39698611000001106,Levothyroxine sodium 50microgram tablets,0602010V0AABXBX
 AMP,862411000001109,Levothyroxine sodium 50microgram tablets,0602010V0AABXBX
 AMP,35111000001101,Levothyroxine sodium 50microgram tablets,0602010V0AABXBX
 AMP,19313511000001100,Levothyroxine sodium 50microgram tablets,0602010V0AABXBX
@@ -62,7 +62,7 @@ AMP,33644511000001100,Levothyroxine sodium 75microgram tablets,0602010V0AABYBY
 AMP,33658011000001100,Levothyroxine sodium 75microgram tablets,0602010V0AABYBY
 AMP,37427011000001100,Levothyroxine sodium 75microgram tablets,0602010V0AABYBY
 AMP,33616611000001100,Levothyroxine sodium 75microgram tablets,0602010V0AABYBY
-VMP,374296008,Levothyroxine sodium 100microgram tablets,0602010V0AABZBZ
+VMP,39697911000001101,Levothyroxine sodium 100microgram tablets,0602010V0AABZBZ
 AMP,841311000001104,Levothyroxine sodium 100microgram tablets,0602010V0AABZBZ
 AMP,268211000001101,Levothyroxine sodium 100microgram tablets,0602010V0AABZBZ
 AMP,19312711000001100,Levothyroxine sodium 100microgram tablets,0602010V0AABZBZ
@@ -87,9 +87,9 @@ VMP,8817611000001100,Levothyroxine sodium 75microgram oral powder sachets,060201
 AMP,8813111000001100,Levothyroxine sodium 75microgram oral powder sachets,0602010V0AACCCC
 VMP,8797611000001100,Levothyroxine sodium 10microgram capsules,0602010V0AACICI
 AMP,8785811000001100,Levothyroxine sodium 10microgram capsules,0602010V0AACICI
-VMP,422486000,Levothyroxine sodium 150microgram capsules,0602010V0AACJCJ
+VMP,39698111000001103,Levothyroxine sodium 150microgram capsules,0602010V0AACJCJ
 AMP,8749511000001100,Levothyroxine sodium 150microgram capsules,0602010V0AACJCJ
-VMP,424608008,Levothyroxine sodium 100microgram capsules,0602010V0AACMCM
+VMP,39697811000001106,Levothyroxine sodium 100microgram capsules,0602010V0AACMCM
 AMP,8749011000001100,Levothyroxine sodium 100microgram capsules,0602010V0AACMCM
 VMP,8816411000001100,Levothyroxine sodium 100microgram oral powder sachets,0602010V0AACQCQ
 AMP,8809811000001100,Levothyroxine sodium 100microgram oral powder sachets,0602010V0AACQCQ
