@@ -458,7 +458,9 @@ amp,7418711000001109,0206020T0BMABAH,Vera-Til SR 240mg tablets (Tillomed Laborat
 amp,16438111000001103,0206020T0BMACAH,Vera-Til SR 240mg tablets (Actavis UK Ltd)
 amp,16449211000001100,0206020T0BMADAU,Vera-Til SR 120mg tablets (Actavis UK Ltd)
 amp,18175611000001109,0206020W0AAAAAA,Nisoldipine 10mg modified-release tablets (Special Order)
+vmp,319283006,0206020A0AAAAAA,Amlodipine 5mg tablets
 vmp,39732011000001102,0206020A0AAAAAA,Amlodipine 5mg tablets
+vmp,319284000,0206020A0AAABAB,Amlodipine 10mg tablets
 vmp,39731911000001109,0206020A0AAABAB,Amlodipine 10mg tablets
 vmp,8278311000001107,0206020A0AAACAC,Amlodipine 5mg/5ml oral suspension
 vmp,13892511000001100,0206020A0AAACAC,Amlodipine 5mg/5ml oral solution
@@ -476,27 +478,41 @@ vmp,29826211000001109,0206020A0AAATAT,Amlodipine 10mg/5ml oral solution sugar fr
 vmp,36237311000001101,0206020A0AAAUAU,Amlodipine 5mg/5ml oral suspension sugar free
 vmp,15243911000001109,0206020B0AAAAAA,Trimetazidine 20mg tablets
 vmp,20456111000001105,0206020B0AAABAB,Trimetazidine 35mg modified-release tablets
+vmp,319205001,0206020C0AAAAAA,Diltiazem 60mg modified-release tablets
 vmp,39023811000001101,0206020C0AAAAAA,Diltiazem 60mg modified-release tablets
+vmp,319180004,0206020C0AAACAC,Diltiazem 90mg modified-release tablets
 vmp,39023911000001106,0206020C0AAACAC,Diltiazem 90mg modified-release tablets
+vmp,319181000,0206020C0AAAEAE,Diltiazem 300mg modified-release capsules
 vmp,39023611000001100,0206020C0AAAEAE,Diltiazem 300mg modified-release capsules
+vmp,319185009,0206020C0AAAJAJ,Diltiazem 60mg modified-release capsules
 vmp,39023011000001107,0206020C0AAAJAJ,Diltiazem 60mg modified-release capsules
 vmp,8457011000001107,0206020C0AAARAR,Diltiazem 60mg/5ml oral solution
+vmp,418945005,0206020C0AAASAS,Diltiazem 120mg modified-release tablets
 vmp,39024011000001109,0206020C0AAASAS,Diltiazem 120mg modified-release tablets
+vmp,319182007,0206020C0AAATAT,Diltiazem 90mg modified-release capsules
 vmp,39023111000001108,0206020C0AAATAT,Diltiazem 90mg modified-release capsules
+vmp,319183002,0206020C0AAAUAU,Diltiazem 120mg modified-release capsules
 vmp,39023211000001102,0206020C0AAAUAU,Diltiazem 120mg modified-release capsules
+vmp,319184008,0206020C0AAAVAV,Diltiazem 180mg modified-release capsules
 vmp,39023311000001105,0206020C0AAAVAV,Diltiazem 180mg modified-release capsules
+vmp,319186005,0206020C0AAAWAW,Diltiazem 240mg modified-release capsules
 vmp,39023511000001104,0206020C0AAAWAW,Diltiazem 240mg modified-release capsules
+vmp,319187001,0206020C0AAAXAX,Diltiazem 200mg modified-release capsules
 vmp,39023411000001103,0206020C0AAAXAX,Diltiazem 200mg modified-release capsules
 vmp,8456711000001106,0206020C0AAAZAZ,Diltiazem 90mg/5ml oral suspension
 vmp,8456811000001103,0206020C0AAAZAZ,Diltiazem 90mg/5ml oral solution
+vmp,319198000,0206020C0AABABA,Diltiazem 360mg modified-release capsules
 vmp,39023711000001109,0206020C0AABABA,Diltiazem 360mg modified-release capsules
 vmp,12027011000001109,0206020C0AABCBC,Diltiazem 100mg/5ml oral solution
 vmp,12027911000001108,0206020C0AABEBE,Diltiazem 50mg/5ml oral solution
 vmp,12027811000001103,0206020C0AABFBF,Diltiazem 30mg/5ml oral solution
 vmp,12027111000001105,0206020C0AABHBH,Diltiazem 10mg/5ml oral solution
 vmp,8456911000001108,0206020C0AABIBI,Diltiazem 60mg/5ml oral suspension
+vmp,319287007,0206020F0AAABAB,Felodipine 5mg modified-release tablets
 vmp,39020611000001109,0206020F0AAABAB,Felodipine 5mg modified-release tablets
+vmp,319288002,0206020F0AAACAC,Felodipine 10mg modified-release tablets
 vmp,39020511000001105,0206020F0AAACAC,Felodipine 10mg modified-release tablets
+vmp,319291002,0206020F0AAADAD,Felodipine 2.5mg modified-release tablets
 vmp,39020311000001104,0206020F0AAADAD,Felodipine 2.5mg modified-release tablets
 vmp,18029311000001107,0206020F0AAAGAG,Felodipine 2.5mg/5ml oral solution
 vmp,18029411000001100,0206020F0AAAHAH,Felodipine 5mg/5ml oral solution
@@ -509,21 +525,32 @@ vmp,10225911000001102,0206020L0AAABAB,Lercanidipine 20mg tablets
 vmp,323273000,0206020M0AAABAB,Nimodipine 30mg tablets
 vmp,319217004,0206020Q0AAAAAA,Nicardipine 20mg capsules
 vmp,319218009,0206020Q0AAABAB,Nicardipine 30mg capsules
+vmp,319216008,0206020Q0AAACAC,Nicardipine 30mg modified-release capsules
 vmp,39021711000001108,0206020Q0AAACAC,Nicardipine 30mg modified-release capsules
+vmp,319215007,0206020Q0AAADAD,Nicardipine 45mg modified-release capsules
 vmp,39021811000001100,0206020Q0AAADAD,Nicardipine 45mg modified-release capsules
 vmp,319222004,0206020R0AAAAAA,Nifedipine 5mg capsules
 vmp,319223009,0206020R0AAABAB,Nifedipine 10mg capsules
+vmp,319274001,0206020R0AAAEAE,Nifedipine 10mg modified-release tablets
 vmp,39022711000001101,0206020R0AAAEAE,Nifedipine 10mg modified-release tablets
+vmp,319273007,0206020R0AAAHAH,Nifedipine 20mg modified-release capsules
 vmp,39022511000001106,0206020R0AAAHAH,Nifedipine 20mg modified-release capsules
+vmp,319272002,0206020R0AAAMAM,Nifedipine 10mg modified-release capsules
 vmp,39022911000001104,0206020R0AAAMAM,Nifedipine 10mg modified-release capsules
+vmp,319275000,0206020R0AAANAN,Nifedipine 30mg modified-release tablets
 vmp,39111711000001105,0206020R0AAANAN,Nifedipine 30mg modified-release tablets
+vmp,319276004,0206020R0AAAPAP,Nifedipine 60mg modified-release tablets
 vmp,39022611000001105,0206020R0AAAPAP,Nifedipine 60mg modified-release tablets
+vmp,319277008,0206020R0AAARAR,Nifedipine 20mg modified-release tablets
 vmp,39022811000001109,0206020R0AAARAR,Nifedipine 20mg modified-release tablets
 vmp,9096811000001100,0206020R0AAASAS,Nifedipine 20mg/ml oral drops
 vmp,8670011000001105,0206020R0AAAUAU,Nifedipine 100mg/5ml oral suspension
+vmp,319233001,0206020R0AAAXAX,Nifedipine 40mg modified-release tablets
 vmp,39107611000001108,0206020R0AAAXAX,Nifedipine 40mg modified-release tablets
 vmp,12862511000001108,0206020R0AABDBD,Nifedipine 30mg/5ml oral suspension
+vmp,319247002,0206020R0AABEBE,Nifedipine 30mg modified-release capsules
 vmp,39107511000001109,0206020R0AABEBE,Nifedipine 30mg modified-release capsules
+vmp,319248007,0206020R0AABFBF,Nifedipine 60mg modified-release capsules
 vmp,38896511000001101,0206020R0AABFBF,Nifedipine 60mg modified-release capsules
 vmp,8670211000001100,0206020R0AABGBG,Nifedipine 20mg/5ml oral suspension
 vmp,12303311000001109,0206020R0AABKBK,Nifedipine 2.5mg/5ml oral suspension
@@ -534,9 +561,11 @@ vmp,318204006,0206020T0AAACAC,Verapamil 40mg tablets
 vmp,318205007,0206020T0AAADAD,Verapamil 80mg tablets
 vmp,318206008,0206020T0AAAFAF,Verapamil 120mg tablets
 vmp,318248001,0206020T0AAAGAG,Verapamil 160mg tablets
+vmp,318213008,0206020T0AAAHAH,Verapamil 240mg modified-release tablets
 vmp,38750211000001107,0206020T0AAAHAH,Verapamil 240mg modified-release tablets
 vmp,36565011000001105,0206020T0AAAIAI,Verapamil 120mg modified-release capsules
 vmp,36149411000001103,0206020T0AAAJAJ,Verapamil 180mg modified-release capsules
+vmp,318250009,0206020T0AAAKAK,Verapamil 240mg modified-release capsules
 vmp,39021011000001106,0206020T0AAAKAK,Verapamil 240mg modified-release capsules
 vmp,35367911000001103,0206020T0AAAUAU,Verapamil 120mg modified-release tablets
 vmp,4139411000001106,0206020T0AAAVAV,Verapamil 40mg/5ml oral solution sugar free

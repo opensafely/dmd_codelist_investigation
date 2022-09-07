@@ -38,6 +38,7 @@ amp,16247411000001106,37816511000001105,0105010E0AAAPAP,Sulfasalazine 250mg/5ml 
 amp,317431008,189511000001109,0105010E0BBAAAA,Salazopyrin 500mg tablets (Pfizer Ltd),Salazopyrin 500mg tablets,tablet.oral
 amp,330040008,198211000001102,0105010E0BBABAB,Salazopyrin EN-Tabs 500mg (Pfizer Ltd),Salazopyrin EN-Tabs 500mg,tabletgastro-resistant.oral
 amp,317432001,51611000001107,0105010E0BBACAC,Salazopyrin 500mg suppositories (Pfizer Ltd),Salazopyrin 500mg suppositories,suppository.rectal
+amp,317433006,426911000001101,0105010E0BBADAD,Salazopyrin 3g/100ml enema (Pfizer Ltd),Salazopyrin 3g/100ml enema,suspensionenema.rectal
 amp,39714511000001109,426911000001101,0105010E0BBADAD,Salazopyrin 3g/100ml enema (Pfizer Ltd),Salazopyrin 3g/100ml enema,suspensionenema.rectal
 amp,317430009,40211000001102,0105010E0BBAEAE,Salazopyrin 250mg/5ml oral suspension (Pfizer Ltd),Salazopyrin 250mg/5ml oral suspension,suspension.oral
 amp,330040008,499211000001108,0105010E0BCABAB,Sulazine EC 500mg tablets (Genesis Pharmaceuticals Ltd),Sulazine EC 500mg tablets (Genesis Pharm),tabletgastro-resistant.oral
@@ -756,6 +757,7 @@ amp,30799911000001104,34871011000001105,1001030U0BHAACF,Jylamvo 2mg/ml oral solu
 vmp,317431008,317431008,0105010E0AAAAAA,Sulfasalazine 500mg tablets,Sulfasalazine 500mg tablets,tablet.oral
 vmp,330040008,330040008,0105010E0AAABAB,Sulfasalazine 500mg gastro-resistant tablets,Sulfasalazine 500mg gastro-resistant tablets,tabletgastro-resistant.oral
 vmp,317432001,317432001,0105010E0AAACAC,Sulfasalazine 500mg suppositories,Sulfasalazine 500mg suppositories,suppository.rectal
+vmp,317433006,317433006,0105010E0AAADAD,Sulfasalazine 3g/100ml retention enema,Sulfasalazine 3g/100ml retention enema,suspensionenema.rectal
 vmp,39714511000001109,317433006,0105010E0AAADAD,Sulfasalazine 3g/100ml retention enema,Sulfasalazine 3g/100ml retention enema,suspensionenema.rectal
 vmp,317430009,317430009,0105010E0AAAEAE,Sulfasalazine 250mg/5ml oral suspension,Sulfasalazine 250mg/5ml oral suspension,suspension.oral
 vmp,13395911000001101,13395911000001101,0105010E0AAAJAJ,Sulfasalazine 500mg/5ml oral suspension,Sulfasalazine 500mg/5ml oral suspension,suspension.oral

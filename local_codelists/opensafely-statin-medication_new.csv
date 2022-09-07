@@ -470,9 +470,13 @@ vmp,414178007,0212000ACAAABAB,Simvastatin 40mg / Ezetimibe 10mg tablets
 vmp,414179004,0212000ACAAACAC,Simvastatin 80mg / Ezetimibe 10mg tablets
 vmp,32234211000001101,0212000AJAAAAAA,Fenofibrate 145mg / Simvastatin 20mg tablets
 vmp,32234311000001109,0212000AJAAABAB,Fenofibrate 145mg / Simvastatin 40mg tablets
+vmp,320029006,0212000B0AAAAAA,Atorvastatin 10mg tablets
 vmp,39695411000001103,0212000B0AAAAAA,Atorvastatin 10mg tablets
+vmp,320030001,0212000B0AAABAB,Atorvastatin 20mg tablets
 vmp,39733011000001106,0212000B0AAABAB,Atorvastatin 20mg tablets
+vmp,320031002,0212000B0AAACAC,Atorvastatin 40mg tablets
 vmp,39733111000001107,0212000B0AAACAC,Atorvastatin 40mg tablets
+vmp,134489001,0212000B0AAADAD,Atorvastatin 80mg tablets
 vmp,39733211000001101,0212000B0AAADAD,Atorvastatin 80mg tablets
 vmp,14018211000001101,0212000B0AAAFAF,Atorvastatin 20mg/5ml oral solution
 vmp,14158811000001101,0212000B0AAAGAG,Atorvastatin 40mg/5ml oral solution
@@ -484,7 +488,9 @@ vmp,19722511000001105,0212000B0AAAMAM,Atorvastatin 20mg chewable tablets sugar f
 vmp,20528511000001106,0212000B0AAANAN,Atorvastatin 30mg tablets
 vmp,20528611000001105,0212000B0AAAPAP,Atorvastatin 60mg tablets
 vmp,14018311000001109,0212000B0AAAQAQ,Atorvastatin 20mg/5ml oral suspension
+vmp,320022002,0212000M0AAAAAA,Fluvastatin 20mg capsules
 vmp,39693011000001106,0212000M0AAAAAA,Fluvastatin 20mg capsules
+vmp,320023007,0212000M0AAABAB,Fluvastatin 40mg capsules
 vmp,39693111000001107,0212000M0AAABAB,Fluvastatin 40mg capsules
 vmp,36566411000001105,0212000M0AAADAD,Fluvastatin 80mg modified-release tablets
 vmp,320012008,0212000X0AAAAAA,Pravastatin 10mg tablets

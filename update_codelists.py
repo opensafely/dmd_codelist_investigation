@@ -1,5 +1,5 @@
-# For each codelist in the codelists directory, replace any obsolete VMP codes and
-# create a new codelist in local_codelists.
+# For each codelist in the codelists directory with obsolete codes, create a new
+# codelist in local_codelists with both the obsolete code and its replacement.
 #
 # VMP codes come from running the following in BigQuery:
 #
@@ -19,6 +19,7 @@ for path in glob.glob("codelists/*.csv"):
         reader = csv.DictReader(f)
         rows = list(reader)
 
+    new_rows = []
     has_old_codes = False
 
     for r in rows:
@@ -28,9 +29,13 @@ for path in glob.glob("codelists/*.csv"):
         else:
             assert False, r.keys()
 
+        new_rows.append(r)
+
         if r[header] in old_to_new:
             has_old_codes = True
-            r[header] = old_to_new[r[header]]
+            r1 = r.copy()
+            r1[header] = old_to_new[r1[header]]
+            new_rows.append(r1)
 
     if not has_old_codes:
         continue
@@ -40,4 +45,4 @@ for path in glob.glob("codelists/*.csv"):
     with open(new_path, "w") as f:
         writer = csv.DictWriter(f, fieldnames=reader.fieldnames)
         writer.writeheader()
-        writer.writerows(rows)
+        writer.writerows(new_rows)
